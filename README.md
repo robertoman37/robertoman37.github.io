@@ -1,7 +1,7 @@
 # Info
 Some notes and other things from my classes<br>
 Just know that (for now) things will be added and removed. This notebook is VERY under construction as I merge my notes from OneNote to markdown.<br>
-To begin navigating the site, [click here](/README.md)
+To begin navigating the site, [click here](/README.html)
 
 # Contributing Guidelines
 If you want to add some notes, raise a github issue with everything you would like in it and (if I want to) I will add it<br>
