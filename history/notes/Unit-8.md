@@ -131,6 +131,42 @@ th, td {
 * **But in Novermber 1917, Russia signed a peace agreement and exited the war**
 * **By 1918, the Central Powers were running out of supplies and tried a massive attack into France**
     * But, the allies halted the attack and pushed back
+## Russia
+### Slow to Progress
+* **In the 1800s, Russia failed to keep pace with the rapid changes taking place in Wester Europe**
+    * Russian industry lagged behind Europe, had few railroads, and most citizens were poor farmers
+    * Russia committed to industrialization but it led to poor wages, long hours, and discontent among the Russian people
+    * Russia used its inudsty to build a respectable navy but had problems mass-producting weapons
+### Czar Nicolas II
+* **In 1894, Czar Nicolas II came to power but failed to address major problems from 1904 to 1917**
+    * When Russian liberals called for democratic reforms, Nicolas II ordered his secret polic to persecute those calling for reform
+* **In 1904, Russia and Japan went to war over Manchuria and Korea**
+    * Russia's humiliating loss to Japan exposed weaknesses in the nation's military and government
+    * Losing the Russo-Japanese War set off a series of riots among commoners who were unhappy with Nicholas' government
+### Calls for reform
+* **In 1905, Russian commoners met outside the czar's WInter Palace to demand better working conditions, right to form unions, and a democratic constitution**
+    * The protest became known as "Bloody Sunday" when the czar's guards fired into the crowd; Riots broke out across Russia
+    * Parliament tried to adress these issues, but Nicolas refuses
+### Attempts of socialism
+* **The czar's unpopularity and failure of the government to respond to problems increased calls for socialism**
+    * Socialist demanded that the government control all means of production to create an equal society
+    * Karl Marx developed a radical form of socialism called communism in whcih the working class led a revolution, seized property, and shared all wealth without a government
+    * Radical workers, peasants, and soldiers began to form councils called soviets that held meetings and assumed control over local governments
+    * In 1903, a radical socialist named Vladimir Lenin formed the Bolsheviks, a group that supported a revolutionary overthrow of the Russian government
+    * But, Lenin fled Russia to avoid arrest by the czar's secret police and waited for an opportunity to return and lead his revolution
+### Involvement in war
+* **Russia's involvement in World War I proved to be the fatal blow to Czar Nicolas' support in Russia**
+    * The Russian military was no match for the German army
+    * Russia had difficult producing weapons for soldiers on the front, food shortages were common for troops and civilians, the lack of trains slowed supplies and commuication
+    * Russia drafted 15 million soldiers and nearly 7 millions were killed or wounded; 1.5 million civilians dead.
+    * Czar Nicolas refused to pull Russia out of the war and went to the Eastern Front to personally take command of the army
+    * Nicolas left his wife, Alezandra, in charge of the day-to-day operations of the Russian government
+    * To help cure her hemophiliac son Alexi, she relied on a mystic named Rasputin
+    * Many people fared that Rasputin was controlling the royal family and murdered him
+* **By early 1917, citizens were rioting across Russia demanding an end the monarchy and to World War I**
+    * In March, Czar Nicolas II abicated the throne and created a provisional government
+    * Lening's message of "peace, land, and break" helped him gain popularity among the Russian people
+    * Bolshevik Red Guards seized control of the provisional government and declared themselves the new government leaders of Russia
 ---
 <!--- remove later --->
 [1]: Breaking consistency to put in an image, but it helps because the region is unfamiliar to me
