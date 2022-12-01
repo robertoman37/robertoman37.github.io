@@ -1,7 +1,7 @@
 ---
 layout: default
 title: classwork
-parent: classwork-directory
+parent: history-directory
 nav_order: 1
 has_children: true
 ---
