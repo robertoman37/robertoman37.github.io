@@ -86,9 +86,6 @@ table {
     border: 1px solid white;
     border-radius: 10px;
 }
-th, td {
-    border: 0px none white;
-}
 </style>
 
 <table>
