@@ -81,11 +81,6 @@ nav_order: 5
 * **By 1915, the war settled into a stalemate as each side fortified their positions with trenches**
 
 ### Advancements
-<style>
-table {
-    border: 1px solid white;
-    border-radius: 10px;
-}
 </style>
 
 <table>
