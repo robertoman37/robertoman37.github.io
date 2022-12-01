@@ -92,21 +92,37 @@ th, td {
 </style>
 
 <table>
-<tr border-style=hidden><th colspan=2> New weapons were invented to try to gain an advantage and win the war</tr></th>
-<tr><th style="border-style: none;">Machine guns</th>
-    <td><image src="https://assets.rbl.ms/17309834/980x.jpg" alt="machine gun"></td></tr>
-<tr><th>Long-range artillery</th>
-    <td><image src="https://qph.fs.quoracdn.net/main-qimg-5b378847eed5889037d8748317b3d415" alt="long-range artillery"></td></tr>
-<tr><th>Tanks</th>
-    <td><image src="http://static.independent.co.uk/s3fs-public/styles/story_large/public/thumbnails/image/2014/07/02/11/003_tankovertrenchbritish.jpg" alt="tanks"></td></tr>
-<tr><th>Airplanes and zeppelins</th>
-    <td><image src="https://www.militaryimages.net/media/ww1-french-aircraft.114702/full?d=1521520166"></td></tr>
-<tr><th>Flamethrowers and grenade launchers</th>
-    <td><image src="http://safariweb.weebly.com/uploads/4/2/8/7/42874173/225781248.png"></td></tr>
-<tr><th>Poison gas</th>
-    <td><image src="https://i.insider.com/537ca9826bb3f7f60d57d10e?width=800"></td></tr>
-<tr><th>Submarine</th>
-    <td><image src="https://www.naval-encyclopedia.com/wp-content/uploads/2018/02/German_UC-1_class_submarine-BG.gif"></td></tr>
+    <tr>
+        <th colspan=2> New weapons were invented to try to gain an advantage and win the war</th>
+    </tr>
+    <tr>
+        <th style="border-style: none;">Machine guns</th>
+        <td><image src="https://assets.rbl.ms/17309834/980x.jpg" alt="machine gun"></td>
+    </tr>
+    <tr>
+        <th>Long-range artillery</th>
+        <td><image src="https://qph.fs.quoracdn.net/main-qimg-5b378847eed5889037d8748317b3d415" alt="long-range artillery"></td>
+    </tr>
+    <tr>
+        <th>Tanks</th>
+        <td><image src="http://static.independent.co.uk/s3fs-public/styles/story_large/public/thumbnails/image/2014/07/02/11/003_tankovertrenchbritish.jpg" alt="tanks"></td>
+    </tr>
+    <tr>
+        <th>Airplanes and zeppelins</th>
+        <td><image src="https://www.militaryimages.net/media/ww1-french-aircraft.114702/full?d=1521520166"></td>
+    </tr>
+    <tr>
+        <th>Flamethrowers and grenade launchers</th>
+        <td><image src="http://safariweb.weebly.com/uploads/4/2/8/7/42874173/225781248.png"></td>
+    </tr>
+    <tr>
+        <th>Poison gas</th>
+        <td><image src="https://i.insider.com/537ca9826bb3f7f60d57d10e?width=800"></td>
+    </tr>
+    <tr>
+        <th>Submarine</th>
+        <td><image src="https://www.naval-encyclopedia.com/wp-content/uploads/2018/02/German_UC-1_class_submarine-BG.gif"></td>
+    </tr>
 </table>
 
 * **New weapons killed soldiers more effectively**
@@ -162,12 +178,12 @@ th, td {
     * Russia's humiliating loss to Japan exposed weaknesses in the nation's military and government
     * Losing the Russo-Japanese War set off a series of riots among commoners who were unhappy with Nicholas' government
 
-### Calls for reform
+### Calls for Reform
 * **In 1905, Russian commoners met outside the czar's WInter Palace to demand better working conditions, right to form unions, and a democratic constitution**
     * The protest became known as "Bloody Sunday" when the czar's guards fired into the crowd; Riots broke out across Russia
     * Parliament tried to adress these issues, but Nicolas refuses
 
-### Attempts of socialism
+### Attempts of Socialism
 * **The czar's unpopularity and failure of the government to respond to problems increased calls for socialism**
     * Socialist demanded that the government control all means of production to create an equal society
     * Karl Marx developed a radical form of socialism called communism in whcih the working class led a revolution, seized property, and shared all wealth without a government
@@ -175,7 +191,7 @@ th, td {
     * In 1903, a radical socialist named Vladimir Lenin formed the Bolsheviks, a group that supported a revolutionary overthrow of the Russian government
     * But, Lenin fled Russia to avoid arrest by the czar's secret police and waited for an opportunity to return and lead his revolution
 
-### Involvement in war
+### Involvement in War
 * **Russia's involvement in World War I proved to be the fatal blow to Czar Nicolas' support in Russia**
     * The Russian military was no match for the German army
     * Russia had difficult producing weapons for soldiers on the front, food shortages were common for troops and civilians, the lack of trains slowed supplies and commuication
@@ -186,8 +202,25 @@ th, td {
     * Many people fared that Rasputin was controlling the royal family and murdered him
 * **By early 1917, citizens were rioting across Russia demanding an end the monarchy and to World War I**
     * In March, Czar Nicolas II abicated the throne and created a provisional government
-    * Lening's message of "peace, land, and break" helped him gain popularity among the Russian people
+    * Lenin's message of "peace, land, and break" helped him gain popularity among the Russian people
     * Bolshevik Red Guards seized control of the provisional government and declared themselves the new government leaders of Russia
+    * The Bolsheviks arrested and executed the Romanovs which ended in 300 years
+
+### Bolshevik Reforms
+* **After the success of the Bolshevik Revolution, Lenin announced major reforms for Russia**
+    * Lenin ordered all farmland to be distributed among the peasants
+    * Lenin gave control of the factories to the workers
+    * Lenin signed a truce with Germany and gave up huge territories in order to get Russia out of the war
+
+### Yet another Revolution
+* **The Russian Revolution led to a civil war between the Bolshevik Red Army and the White Army (people who wanted a new czar, democracy, or land back)**
+    * Britian France, and USA supported the White Army to get Russia back into WWI
+* **After 3 years of fighting, the Red Army won and Lenin became the unquestioned leader of Russia**
+    * In 1922, Lenin renamed Russia the Union of Soviet Socialist Republics (**USSR**)
+    * Lenin created the Communist Party whch ruled the Soviet Union as a dictatorship
+* **In 1917, Vladimir Lenin led the Bolsheviks in an overthrow of the Russian government**
+    * Lenin transformed Russia into the Soviet Union, the world's first Socialist government and created the Communist Party to rule the nation
+
 ---
 <!--- remove later --->
 [1]: Breaking consistency to put in an image, but it helps because the region is unfamiliar to me
