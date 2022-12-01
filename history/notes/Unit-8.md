@@ -1,3 +1,10 @@
+---
+layout: default
+title: Unit 8 notes
+parent: history notes
+grand_parent: history
+nav_order: 5
+---
 # Unit 8
 ## World War I
 ### Intro

@@ -27,7 +27,7 @@ nav_order: 1
         <th>Cause?</th>
         <td>Ignored religious beliefs, racism, economic inequality</td>
         <td>Growth of goreign influence, poverty, and Christianity</td>
-        <td>Illegal import of Opium by british
+        <td>Illegal import of Opium by british,</td>
     </tr>
     <tr>
         <th>Result?</th>
@@ -39,4 +39,4 @@ nav_order: 1
         <td>Democracy instated</td>
         <td>British gained more rights and free trade</td>
     </tr>
-    </table>
+</table>

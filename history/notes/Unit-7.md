@@ -1,3 +1,10 @@
+---
+layout: default
+title: Unit 7 notes
+parent: history notes
+grand_parent: history
+nav_order: 4
+---
 # Unit 7 - Industrial Revolution
 # Industrial Revolution Introduction
 * ### Intro

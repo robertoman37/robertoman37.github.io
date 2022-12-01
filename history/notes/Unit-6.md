@@ -1,3 +1,10 @@
+---
+layout: default
+title: Unit 6 notes
+parent: history notes
+grand_parent: history
+nav_order: 3
+---
 # Unit 6 notes
 ## Absolute Monarchy
 ---

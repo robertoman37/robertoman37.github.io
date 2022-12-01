@@ -1,6 +1,6 @@
 ---
 layout: default
-title: history-directory
+title: history
 nav_order: 2
 has_children: true
 ---

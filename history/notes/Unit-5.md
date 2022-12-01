@@ -1,3 +1,10 @@
+---
+layout: default
+title: Unit 5 notes
+parent: history notes
+grand_parent: history
+nav_order: 2
+---
 # Unit 5 Notes
 ## Intro to Renaissance
 * ### During the Renaissance (1300 to 1600), Western Europe emerged from the Middle Ages:

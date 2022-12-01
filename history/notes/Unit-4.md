@@ -1,3 +1,10 @@
+---
+layout: default
+title: Unit 4 notes
+parent: history notes
+grand_parent: history
+nav_order: 1
+---
 # Unit 4 - Africa and Mesoamerica
 ## Africa
 * Africa's geography was very diverse and Africans lived differently based on where they lived
