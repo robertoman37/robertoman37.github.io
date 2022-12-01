@@ -1,3 +1,9 @@
+---
+layout: default
+title: warmups
+nav_order: 3
+parent: history
+---
 <style>
 table {
     border: 1px solid white;
@@ -59,3 +65,8 @@ th, td {
 ## 11/30/22
 ### How did technologies in weaponry change World War I?
 > Airplanes brought the fight to the air, gasses made fighting dangerous, and tanks helped breach the no-man's land
+## 12/1/22
+### What are 3 reasons why the Russian people turned against Czar Nicolas II?
+> 1. Disagreeable World War I decisions
+> 2. Didn't discuss legitimate problems
+> 3. Killed **A LOT** of his own people
