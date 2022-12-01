@@ -221,6 +221,41 @@ th, td {
 * **In 1917, Vladimir Lenin led the Bolsheviks in an overthrow of the Russian government**
     * Lenin transformed Russia into the Soviet Union, the world's first Socialist government and created the Communist Party to rule the nation
 
+## Treaty of Versailles
+* **On Novermber 11, 1918, the Germany government agreed to an armistice and World War I came to an end**
+* **World War I was the largest, most deadly, and most destructive war the world had yet seen**
+    * 8.5 million soliders and 13 million civilians died as a result of the war
+    * 21 million soldiers were wounded during the war
+    * Homes, farms, towns were destroyed; The war cost $338 billion
+* **The summer of 1919, reperesentatives from 32 nations attended the Paris Peace Conference to write a treaty to end the war**
+    * The conference was led by the "Big Four": Britain, France, Italy, and the United States
+    * Japan attended but left early because they were not respected or recieved anything for their attandance
+    * In the "Hall of Mirrors" at the Palace of Versailles
+    * Germany, Austria-Hungary, the Ottoman Empire were NOT allowed to attend... Russia could not attend because they already quit World War I
+* **Britain and France wanted to weaken Germany so it could never go to war again**
+    * Britain and France wanted Germany to accept full blame, pay reparations, and lose all overseas colonies
+    * President Wilson presented his own peace proposal known as the Fourteen points
+* **The Major provisions of the Treaty included:**
+    * A league of Nations that would serve as an international organization to keep peace among nations
+    * The League covenant included an agreement that all member nations would work together to stop future acts of agression
+    * The League also included a Court of International Justice to settle disagreements
+    * Germany had to give up land in Europe and all of its overseas colonies
+    * Limit set on German army
+    * Prohibited from importing or manufacturing weapons
+    * Forbidden to build or buy submarines or have an air force
+* **The terms of the treaty severely punished Germany**
+    * Germany was forced to sign the "war guilt clause" accepting all blame for the war and pay $33 billion in reparations to the Allies
+    * Most hated part by the German people
+* **Wilson's 14 Points summarized**
+    * **WIlson hoped to eliminate the causes of WWI by getting rid of secret treaties**
+    * **Wilson suggested changing boundaries, creating new nations, and allow the people of each nation to decide their own form of government**
+    * **Establishment of the league of Nations**
+* **In addition the Treaty of Versailles dredrew the map of Europe and the Middle East**
+    * New nations were created from territories that Russia gave up when it left the war early
+    * Ottoman Empire was divided; Britain and France gained mandates in the Middle East
+* **Most nations celebrated the official end of World War I**
+    * But, Germans protested the harsh terms and resented their government for signing the treaty
+    * 
 ---
 <!--- remove later --->
 [1]: Breaking consistency to put in an image, but it helps because the region is unfamiliar to me
