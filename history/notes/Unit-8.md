@@ -93,7 +93,8 @@ th, td {
 
 <table>
     <tr>
-        <th colspan=2> New weapons were invented to try to gain an advantage and win the war</th>
+        <th></th>
+        <th> New weapons were invented to try to gain an advantage and win the war</th>
     </tr>
     <tr>
         <th style="border-style: none;">Machine guns</th>
