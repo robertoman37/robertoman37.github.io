@@ -1,3 +1,10 @@
+---
+layout: default
+title: Rebellions in Asia
+parent: classwork-directory
+grand_parent: history-directory
+nav_order: 1
+---
 # Rebellions in Asia - Unit 7
 <style>
     td, th {

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Unit 7 Study Guide
+parent: classwork-directory
+grand_parent: history-directory
+nav_order: 2
+---
 ## Industrial Revolution
 |Question|Answer|
 |---|---|
