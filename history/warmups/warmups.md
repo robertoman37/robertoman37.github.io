@@ -16,10 +16,27 @@ th, td {
 </style>
 # Warmups
 ## 11/2/22
-|                      |Capitalism|Socialism|Communism|
-|:--------------------:|:--------:|:-------:|:-------:|
-|Public <br>businesses |   [ ]    |   [x]   |   [x]   |
-|Private <br>businesses|   [x]    |   [x]   |   [ ]   |
+<table>
+    <tr>
+        <th></th>
+        <th>Capitalism</th>
+        <th>Socialism</th>
+        <th>Communism</th>
+    </tr>
+    <tr>
+        <th>Public businesses</th>
+        <td>[ ]</td>
+        <td>[x]</td>
+        <td>[x]</td>
+    </tr>
+    <tr>
+        <th>Private businesses</th>
+        <td>[x]</td>
+        <td>[x]</td>
+        <td>[ ]</td>
+    </tr>
+</table>
+
 ---
 ## 11/3/22
 ### What is urbanization? What are some factors that led to urbanization in England in the 1800s
