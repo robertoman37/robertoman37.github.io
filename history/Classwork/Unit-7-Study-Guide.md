@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Unit 7 Study Guide
-parent: classwork-directory
+parent: classwork
 grand_parent: history-directory
 nav_order: 2
 ---

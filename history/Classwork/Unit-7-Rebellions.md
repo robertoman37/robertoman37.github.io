@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rebellions in Asia
-parent: classwork-directory
+parent: classwork
 grand_parent: history-directory
 nav_order: 1
 ---
