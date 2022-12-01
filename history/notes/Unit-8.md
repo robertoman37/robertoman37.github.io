@@ -94,7 +94,7 @@ table {
         <th> New weapons were invented to try to gain an advantage and win the war</th>
     </tr>
     <tr>
-        <th style="border-style: none;">Machine guns</th>
+        <th>Machine guns</th>
         <td><image src="https://assets.rbl.ms/17309834/980x.jpg" alt="machine gun"></td>
     </tr>
     <tr>
