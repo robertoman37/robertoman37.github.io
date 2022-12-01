@@ -37,26 +37,21 @@ th, td {
     </tr>
 </table>
 
----
 ## 11/3/22
 ### What is urbanization? What are some factors that led to urbanization in England in the 1800s
 > Urbanization is the mass migration of people from countrysides/ where they normally work, to cities. The main factor that led to urbanization in England in the 1800s is the Industrial revolution
----
 
 ## 11/7/22
 ### What is the 'White Man's Burden'? How was it used to justify colonization in Africa?
 > The White Man's Burden was a (false) concept that The "White Man's" ways were better and that colonization in Africa was merely an attempt to make their cultures better and to teach them the "White Man's ways"
----
 
 ## 11/9/22
 ### What was China's policy regarding trade prior to the introduction of opium into its country? How did that policy change after opium is introduced?
 > China's trade policy was that they simply didn't buy anything from other countries and only exported to make profit. After opium was introduced, Britain quickly gained control of their exports and created a free trade system between China and other industrialized empires.
----
 
 ## 11/10/22
 ### Name three ways in which Japan learned Western culture and used it in Japan
 > They learned from the British Navy and the German Army to create a very powerful military force. They created a parliament based off of Germany's, and reformed education models from several western countries.
----
 
 ## 11/14/22
 ### Compare and Constrast European imperialism in Asia and Africa
