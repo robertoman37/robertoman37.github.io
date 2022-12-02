@@ -1,3 +1,10 @@
+---
+layout: default
+title: General Area Formula
+nav_order: 1
+parent: Unit 3
+grand_parent: math
+---
 # Law of Cosines
 The law of cosines is a method to find either an unincluded side in any SAS triangle or a missing angle in any SSS triangle
 ## Derivation

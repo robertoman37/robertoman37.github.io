@@ -1,3 +1,10 @@
+---
+layout: default
+title: Unit Circle
+nav_order: 2
+parent: Unit 1
+grand_parent: math
+---
 ### What is the Unit Circle
 * The Unit Circle is a circle with a radius of 1. This circle allows us to find the trigonometric functions of an angle without a calculator. Below is a picture of the unit circle[^1]
 ```desmos-graph

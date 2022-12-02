@@ -1,3 +1,10 @@
+---
+layout: default
+title: angle vocab
+nav_order: 1
+parent: Unit 1
+grand_parent: math
+---
 Below are several different vocab words relating to angles.
 ### **Initial Side**
 * The ray you are rotating to form the angle. Often lies on the positive x-axis

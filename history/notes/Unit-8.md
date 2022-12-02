@@ -81,40 +81,52 @@ nav_order: 5
 * **By 1915, the war settled into a stalemate as each side fortified their positions with trenches**
 
 ### Advancements
-</style>
-
 <table>
     <tr>
         <th></th>
-        <th> New weapons were invented to try to gain an advantage and win the war</th>
+        <th>New weapons were invented to try to gain an advantage and win the war</th>
     </tr>
     <tr>
         <th>Machine guns</th>
-        <td><image src="https://assets.rbl.ms/17309834/980x.jpg" alt="machine gun"></td>
+        <td>
+            <image src="https://assets.rbl.ms/17309834/980x.jpg" alt="machine gun">
+        </td>
     </tr>
     <tr>
         <th>Long-range artillery</th>
-        <td><image src="https://qph.fs.quoracdn.net/main-qimg-5b378847eed5889037d8748317b3d415" alt="long-range artillery"></td>
+        <td>
+            <image src="https://qph.fs.quoracdn.net/main-qimg-5b378847eed5889037d8748317b3d415" alt="long-range artillery">
+        </td>
     </tr>
     <tr>
         <th>Tanks</th>
-        <td><image src="http://static.independent.co.uk/s3fs-public/styles/story_large/public/thumbnails/image/2014/07/02/11/003_tankovertrenchbritish.jpg" alt="tanks"></td>
+        <td>
+            <image src="http://static.independent.co.uk/s3fs-public/styles/story_large/public/thumbnails/image/2014/07/02/11/003_tankovertrenchbritish.jpg" alt="tanks">
+        </td>
     </tr>
     <tr>
         <th>Airplanes and zeppelins</th>
-        <td><image src="https://www.militaryimages.net/media/ww1-french-aircraft.114702/full?d=1521520166"></td>
+        <td>
+            <image src="https://www.militaryimages.net/media/ww1-french-aircraft.114702/full?d=1521520166">
+        </td>
     </tr>
     <tr>
         <th>Flamethrowers and grenade launchers</th>
-        <td><image src="http://safariweb.weebly.com/uploads/4/2/8/7/42874173/225781248.png"></td>
+        <td>
+            <image src="http://safariweb.weebly.com/uploads/4/2/8/7/42874173/225781248.png">
+        </td>
     </tr>
     <tr>
         <th>Poison gas</th>
-        <td><image src="https://i.insider.com/537ca9826bb3f7f60d57d10e?width=800"></td>
+        <td>
+            <image src="https://i.insider.com/537ca9826bb3f7f60d57d10e?width=800">
+        </td>
     </tr>
     <tr>
         <th>Submarine</th>
-        <td><image src="https://www.naval-encyclopedia.com/wp-content/uploads/2018/02/German_UC-1_class_submarine-BG.gif"></td>
+        <td>
+            <image src="https://www.naval-encyclopedia.com/wp-content/uploads/2018/02/German_UC-1_class_submarine-BG.gif">
+        </td>
     </tr>
 </table>
 

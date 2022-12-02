@@ -1,3 +1,10 @@
+---
+layout: default
+title: Simplifying trig
+nav_order: 3
+parent: Unit 1
+grand_parent: math
+---
 ```desmos-graph
 top=1; bottom=-1;
 left=0; right=2;

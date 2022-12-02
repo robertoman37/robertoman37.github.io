@@ -1,3 +1,10 @@
+---
+layout: default
+title: General Area Formula
+nav_order: 1
+parent: Unit 3
+grand_parent: math
+---
 # General Area Formula
 ## Derivation
 If we have a non-right triangle with sidelengths a, b, c, like this:
