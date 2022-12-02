@@ -2,7 +2,7 @@
 layout: default
 title: Rebellions in Asia
 parent: classwork
-grand_parent: history-directory
+grand_parent: history
 nav_order: 1
 ---
 # Rebellions in Asia - Unit 7

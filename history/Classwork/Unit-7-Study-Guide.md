@@ -2,7 +2,7 @@
 layout: default
 title: Unit 7 Study Guide
 parent: classwork
-grand_parent: history-directory
+grand_parent: history
 nav_order: 2
 ---
 ## Industrial Revolution
