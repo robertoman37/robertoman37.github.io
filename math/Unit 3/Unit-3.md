@@ -2,6 +2,6 @@
 layout: default
 title: Unit 3
 has_children: true
-parent: math
+parent: pre-calculus
 nav_order: 3
 ---

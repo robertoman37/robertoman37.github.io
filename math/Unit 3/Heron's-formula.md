@@ -3,7 +3,7 @@ layout: default
 title: Heron's Formula
 nav_order: 3
 parent: Unit 3
-grand_parent: math
+grand_parent: pre-calculus
 ---
 # Heron's Formula
 Heron's Formula is a formula that can be used to find the area of a general triangle if you only know the sides of the triangle.

@@ -3,7 +3,7 @@ layout: default
 title: Simplifying trig
 nav_order: 3
 parent: Unit 1
-grand_parent: math
+grand_parent: pre-calculus
 ---
 ```desmos-graph
 top=1; bottom=-1;

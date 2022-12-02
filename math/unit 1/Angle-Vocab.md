@@ -3,7 +3,7 @@ layout: default
 title: angle vocab
 nav_order: 1
 parent: Unit 1
-grand_parent: math
+grand_parent: pre-calculus
 ---
 Below are several different vocab words relating to angles.
 ### **Initial Side**

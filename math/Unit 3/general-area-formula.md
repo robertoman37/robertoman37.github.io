@@ -3,7 +3,7 @@ layout: default
 title: General Area Formula
 nav_order: 1
 parent: Unit 3
-grand_parent: math
+grand_parent: pre-calculus
 ---
 # General Area Formula
 ## Derivation
