@@ -226,7 +226,9 @@ nav_order: 5
 * **After WWI, many nations were struggling to rebuild**
     * A global depression in the 1930s led to high unemployment and a sense of desperation in Europe
     * The Treaty of Versailles created bitterness among many nations
-* In this climate of post war uncertainty, nationalism increased and citizens turned to totalitarian dictators to rule the nation:
+
+### Totalitarian Leaders
+* **In this climate of post war uncertainty, nationalism increased and citizens turned to totalitarian dictators to rule the nation:**
     * Francisco Franco
         * Spain
     * Adolf Hitler
@@ -237,6 +239,66 @@ nav_order: 5
         * Russia
     * Hideki Tojo
         * Japan
+* **Totalitarian leaders are dictators who control all aspects of the voernment and the lives of the citizens**
+    * Totalitarian leaders gained support by promising jobs, pormoting nationalism, and using propaganda
+    * Dictators held on to their power by using censorship
+
+### Joseph Stalin
+* **Among the first totalitarian dictators was Joseph Stalin of the Soviet Union**
+    * Stalin was Communist and seized all propetry, farms, factories in order to control the economu and create equality
+    * He used a secret police and the Great Purge to eliminate rivals
+    * Stalin's Five Year Plans and collective farms improved the Soeviet Union's industrial and agricultural output
+
+### Political Alignment of Totalitarian Dictators
+* **Not all totalitarian dictators were Communists**
+    * In Italy, Germany, and Spain, people turned to an extremely nationalist government called fascism
+    * Fascist governments were controlled by dictators who demanded loyalty from citizens
+    * Fascists did not offer democracy and used one-party to rule the nation
+    * Unlike Communists, fascists believed people could keep their property
+
+### Mussolini and Hitler's beliefs
+* **Mussolini and Hitler believed in fascism: the idea that nations need strong dictators, total authority by one party, but that people can keep private property**
+
+### Benito Mussolini
+* **In Italy, Benito Mussolini formed the Fascist Party**
+    * Mussolini gained popularity by promising to revive the economy, rebuild the military, and expand Italy to create a new Roman Empire
+    * Mussolini named his Fascist Party after the fasces, a Roman symbol of authority and power
+    * Mussolini created the Blackshirts (a secret polic force) to enforce the goals of his Fascist Party
+* **By 1922, Mussolini was popular enought to lead a "march on Rome" and forced the Italian king to name him prime minister**
+* **As prime iminster, Benito Mussonlini was known as "Il Duce" (the chief)**
+    * Mussolini ended democracy and all opposition parties
+    * Mussolini built up the military to create new jobs
+    * He planned to conquer new territories in Africa for Italy
+
+### Hitler
+* **The Nazis were a fascist group in Germany that wanted to overthrow the disloyal Weimar Republic**
+    * Adolf Hitler was an early Nazi recruit and quickly rose to power in the party
+    * Hitler was impressed by Mussolini and used many of his ideas to make the Nazi Party strong in Germany
+    * The Nazis created their own militia called the Brown Shirts
+    * Hitler planned a march on Munich but he was arrested and jailed for 9 months
+* **While in jail, Hitler wrote *Mein Kampf* which outlined his plans for Germany**
+    * He wrote that Germans were members of a master race called Aryans and all non-Aryans were inferior
+    * He declared that German needed lebensraum (living space) and should conquer Eastern Europe and Russia
+    * He called the Versailles Treaty an outrage and vowed to regain land taken from Germany after the war
+* **When Hitler was released from jail in 1924, he spent years organizing the Nazis into Germany's most powerful political party**
+    * In 1933, Hitler was named chancellor (prime miniser) of Germany
+    * As chancellor Hitler used his power to name himself dicator
+    * He called his government the *Third Reich* to promote pride and nationalism
+    * Hitler put Germans to work by buliding factories, highways, weapons, and increasing the military
+    * He created the government protection squad called the SS and a secret police called the Gestapo to eliminate rivals and control all aspects of Germany
+* **In 1935, Hitler began a series of anti-semitic laws called the Nuremburg Laws that deprived German Jews of the tirhgts of citizens, forbade mixed Jewish marriages, and required Jews to wear a yellow star**
+    * In 1938, Hitler ordered Kristallnacht (Night of Broken Glass), a series of attacks on Jewish synagogues and businesses
+
+### Emperor Hirohito
+* **After WWI, Japan was the strongest nation in Asia and was ready to conquer new lands to provide resources for Japanese industry**
+    * Emperor Hirohito, gave full control of the Japanese military to Hideki Tojo who served as a military dictator
+
+### Imperialism + Growing Tensions
+* **In the 1930s, Japan, Italy, and Germany began aggressively expanding into new terrritories. These actions caused World War II in 1939**
+    * Italy invaded Ethiopia and Albania
+    * Japan invaded Manchuria, northern China; invaded Indochina and the East Indies
+    * germany annexed[^2] Austria and Czechoslovakia
+
 ---
-<!--- remove later --->
 [1]: Breaking consistency to put in an image, but it helps because the region is unfamiliar to me
+[2]: officially recognized as part of the government, but geologically separate
