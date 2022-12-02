@@ -81,54 +81,14 @@ nav_order: 5
 * **By 1915, the war settled into a stalemate as each side fortified their positions with trenches**
 
 ### Advancements
-<table>
-    <tr>
-        <th></th>
-        <th>New weapons were invented to try to gain an advantage and win the war</th>
-    </tr>
-    <tr>
-        <th>Machine guns</th>
-        <td>
-            <image src="https://assets.rbl.ms/17309834/980x.jpg" alt="machine gun">
-        </td>
-    </tr>
-    <tr>
-        <th>Long-range artillery</th>
-        <td>
-            <image src="https://qph.fs.quoracdn.net/main-qimg-5b378847eed5889037d8748317b3d415" alt="long-range artillery">
-        </td>
-    </tr>
-    <tr>
-        <th>Tanks</th>
-        <td>
-            <image src="http://static.independent.co.uk/s3fs-public/styles/story_large/public/thumbnails/image/2014/07/02/11/003_tankovertrenchbritish.jpg" alt="tanks">
-        </td>
-    </tr>
-    <tr>
-        <th>Airplanes and zeppelins</th>
-        <td>
-            <image src="https://www.militaryimages.net/media/ww1-french-aircraft.114702/full?d=1521520166">
-        </td>
-    </tr>
-    <tr>
-        <th>Flamethrowers and grenade launchers</th>
-        <td>
-            <image src="http://safariweb.weebly.com/uploads/4/2/8/7/42874173/225781248.png">
-        </td>
-    </tr>
-    <tr>
-        <th>Poison gas</th>
-        <td>
-            <image src="https://i.insider.com/537ca9826bb3f7f60d57d10e?width=800">
-        </td>
-    </tr>
-    <tr>
-        <th>Submarine</th>
-        <td>
-            <image src="https://www.naval-encyclopedia.com/wp-content/uploads/2018/02/German_UC-1_class_submarine-BG.gif">
-        </td>
-    </tr>
-</table>
+* **New weapons were invented to try to gain an advantage and win the war**
+    * Machine guns
+    * Long-range artillery
+    * Tanks
+    * Airplanes and Zeppelins
+    * Flamethrowers and grenade launchers
+    * Poison gas
+    * Submarine
 
 * **New weapons killed soldiers more effectively**
     * During World War I, 8.5 million soldiers died and 21 million were wounded
@@ -260,7 +220,23 @@ nav_order: 5
     * Ottoman Empire was divided; Britain and France gained mandates in the Middle East
 * **Most nations celebrated the official end of World War I**
     * But, Germans protested the harsh terms and resented their government for signing the treaty
-    * 
+
+## Totalitarianism
+### The Great Depression
+* **After WWI, many nations were struggling to rebuild**
+    * A global depression in the 1930s led to high unemployment and a sense of desperation in Europe
+    * The Treaty of Versailles created bitterness among many nations
+* In this climate of post war uncertainty, nationalism increased and citizens turned to totalitarian dictators to rule the nation:
+    * Francisco Franco
+        * Spain
+    * Adolf Hitler
+        * Germany
+    * Bonito Mussolini
+        * Italy
+    * Joseph Stalin
+        * Russia
+    * Hideki Tojo
+        * Japan
 ---
 <!--- remove later --->
 [1]: Breaking consistency to put in an image, but it helps because the region is unfamiliar to me
