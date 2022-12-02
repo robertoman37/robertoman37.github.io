@@ -4,16 +4,6 @@ title: warmups
 nav_order: 3
 parent: history
 ---
-<style>
-table {
-    border: 1px solid white;
-    border-radius: 10px;
-}
-th, td {
-    border: 0px none white;
-    text-align: center;
-}
-</style>
 # Warmups
 ## 11/2/22
 <table>
@@ -89,3 +79,12 @@ th, td {
 > 1. Disagreeable World War I decisions
 > 2. Didn't discuss legitimate problems
 > 3. Killed **A LOT** of his own people
+
+## 12/2/22
+### What were the four major conditions Germany was required to agree to in the Treaty of Versailles? Which condition were they most upset about?
+> 1. War reparations
+> 2. war guilt
+> 3. no more military
+> 4. give up land
+>
+> The condition that they were most upset about was the war reparations, because that ended up crippling their economy.
