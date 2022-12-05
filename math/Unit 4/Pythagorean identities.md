@@ -34,3 +34,5 @@ We can derive the next one smiliarly by simply dividing $\sin^2\theta$ on both s
 $$\cos^2\theta+\sin^2\theta=1$$
 $$\frac{\cos^2\theta+\sin^2\theta}{\sin^2\theta}=\frac{1}{\cos^2\theta}$$
 $$1+\cot^2\theta=\csc^2\theta$$
+
+Of course, you can modify these identities for uses in solving other things. These won't be shown, just know that they can be done.
