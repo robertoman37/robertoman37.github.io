@@ -68,6 +68,7 @@ x^2+y^2=0.25|x>0.4472|y<0|blue
 ---
 ### Coterminal Angles
 * Two angles that share the same initial and terminal sides. Subtract or add multiples of $360\degree$ or $2\pi$ to find them.
+
 $$\begin{equation}
 \frac{
     \begin{array}[b]{r}
@@ -78,7 +79,9 @@ $$\begin{equation}
     435\degree
   }
 \end{equation}$$
+
 * The above is a positive coterminal angle
+
 $$\begin{equation}
 \frac{
     \begin{array}[b]{r}
