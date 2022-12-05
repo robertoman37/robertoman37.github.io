@@ -88,3 +88,7 @@ parent: history
 > 4. give up land
 >
 > The condition that they were most upset about was the war reparations, because that ended up crippling their economy.
+
+## 12/5/22
+### What factors led to the rise of totalitarian dictators in the 1920s to 1930s?
+> The great depression, rise of nationalism, the treaty of versailles (specifically for Germany), and high unemployment all led to the rise of totalitarian dictators.
