@@ -299,6 +299,66 @@ nav_order: 5
     * Japan invaded Manchuria, northern China; invaded Indochina and the East Indies
     * germany annexed[^2] Austria and Czechoslovakia
 
+## WWII, Growing Tensions
+### Nazi Agression
+* **Hitler became dictator in 1933**
+* **Hitler imediately ignored the Treaty of Versailles throught the following:**
+    * Rebuilding a large military (germany was forbidden from having a large military)    
+    * Rebuilding factories
+    * Building an extensive road system
+    * Producing military weapons
+    * All of these created jobs and completely revived the German economy
+
+### Invasion of Rhineland
+* **In 1935, Hitler decided to invade the Rhineland**
+    * This area was taken away from Germany after WWI and was used as a buffer zone
+        * France wanted a buffer zone between them an Germany in fear of a strong German military on their border
+    * France could've easily stopped Germany and defeated the German military if needed    
+
+### Austria annexation
+* **Hitler annexes all of Austria**
+    * Hitler blieved Ausrians were culuterally similar to Germans and needed to be unified with their German brothers
+    * Austrian citizans welcomed the Nazis
+    > Anschluss - annexation of Austria
+    * Hitler said Germans needed "Lebensraum" (living space)
+    * Hitler demanded the Sudetenland region (western defensive border of Czechoslovakia) where 3.5 million Germans lived
+
+### Munich Conference
+* **Fracne, Great Britian, Italy, and Germany met in Munich, Germany, on Sptember 29, 1938 to discuss Hitler's demand**
+    * Czechs not invited
+    * **Munich Conference**: chose to appease Hitler and gave him Sudetenland if he promised not to take anything more
+        > **Appeasement**: giving in to the demands of an agressor to avoid conflict
+
+### Invasion of Czechoslovakia
+* **In March, 1939, Hitler invades the rest of Czechoslovakia**
+    * Britain and France do nothing
+
+### Italian invasion of Ethiopia
+* **Ethiopia proudly rejected colonial rule during the scramble for Africa**
+    * Italy was humiliated in this loss
+* **Mussolini wanted revenge for this defeat in 1896**
+    * Britain controlled the Suez canal, but did not stop Italian ships
+    * Proved the league of Nations was a joke
+
+### Rape of Nanjing
+* **Japan began invading arious regions in Asia**
+    * Japan has almost no natual resources for their country and this military (Oil, Coal, etc.)
+    * Japan invaded CHina in 1937
+    * Japanese soldiers committed horrible atrocities against the Chinese people
+    * Upwards of 30,000 dead and 80,000 women raped
+
+### Invasion of Poland
+* **On September 1, 1939, Germany invaded Poland**
+    * Shortly after, Britain and France declare war on Germany
+    * World War II has begun...
+
+## Beginning of World War II
+### Blitzkrieg
+> **Blitzkrieg - Lightning War**
+* **German military used a new tactic known as Blitzkreig**
+    * Intense combination of armored infantry, air support, and soldiers to quickly break through the enemy lines, isolate enemy soldiers, cause confusion, and bring a quick victory
+    * European contries were no match for Blitzkreig
+
 ---
 [1]: Breaking consistency to put in an image, but it helps because the region is unfamiliar to me
 [2]: officially recognized as part of the government, but geologically separate
