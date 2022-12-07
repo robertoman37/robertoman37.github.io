@@ -359,6 +359,135 @@ nav_order: 5
     * Intense combination of armored infantry, air support, and soldiers to quickly break through the enemy lines, isolate enemy soldiers, cause confusion, and bring a quick victory
     * European contries were no match for Blitzkreig
 
+## Battles of WWII (European Theatre)
+### Nonaggression Pact
+* **An agreement between Hitler and Stalin that says that Germany and Soviet Union will not fight each other and that Soviet Union and Germany will divide Poland**
+
+### September 1939
+* **German army invades Poland**
+* **Britain and France declare war on Germany**
+
+### Start of WWII
+* **By 1941, Axis Powers control all of continental Europe except for the neutral countries of Sweden, Switzerland, and Spain**
+* **Axis armies also controlled most of North Africa**
+
+### Battle of Britain
+* **While Britain remained free, the Nazi air force began a devastating bombing campaign of British infrastructure and cities**
+    * Britain's Royal Air Force (RAF) vs. Luftwaffe, Nazi Germany's air force
+    * It was the first battle in history fought solely in the air
+    * The powerful, combat-experienced Luftwaffe hoped to conquer Britain easily, but the RAF proved a formidable enemy
+* **By the end of October 1940, Hitler called off his planned invastion of Britain and the Battle of Britain ended**
+    * Both sides suffered enormous loss of life and aircraft
+    * **Significance**: It was the first major defeat of the war for Hitler
+
+### USA enters the war
+* **When the USA entered WWII, Stalin wanted the Allies to open a Wester Front and divide the German army**
+    * Britain and the USA agreed to fight the Axis Powers in North Africa (Stalin was angry)
+    * The Allies defeated Germany and the Battle of El Alamein in 1942 and the npushed the Axis Powers out of Africa
+    * American and British troops invaded Italy, took Sicily in 1943, seized Rome in 1944
+* **In 1945, Mussolini was captured and executed by the Italian Resistance**
+    * He and his girlfriend were strung up and left in the square in Milan
+
+### Hitler and Stalin
+* **In May of 1941, Hitler called off the attacks deciding stead to focus on Eastern Europe**
+    * In June of 1941, Germany violated the non-agression pact and invaded the Soviet Union
+    * Hitler's invasion of the Soviet Union proved to be the first step in his defeat
+    * The vastness of territory, massive manpower, and extreme cold gave the Soviet an advantage that allowed them to stop the German advance
+
+* **Meanwhile, the Soviet army stopped the German attack at Moscow and Leningrade in 1942**
+    * The Soviets defeated the German army at the battle of Stalingrad
+    * **Significance**: THe Soviet victory at Stalingrad was a turning point on the eastern front, because the Russians began pushing towards Germany from the East by 1943
+
+### D-Day (Operation Overlord)
+* **In May of 1944, a massive force made up of British American, Canadian and French troops landed on the coast of Normandy in France**
+    * The invasion was one of the largest amphibious military assaults in history and required extenive planning
+    * By dawn on June 6<sup>th</sup>, thousands of paratroopes and glider troops were already on the ground behind enemy lines, securing bridges and exit roads
+    * The amphibious invasions began at 6:30 am
+* **From Normandy, the Allies moved south and liberated Paris, then turned east moving toward Germany**
+    * Bloodiest battle in American history
+        * Over 34,000 killed
+    * Lead to eventual liberation of France, Belgium and Luxemburg
+    * Turning point on the western front
+* **This allowed the Allies to push towards Germany from the West**
+    * At the same time, the Soviet army pushed from the East
+    * Force to fight a two-front war, Hitler ordered a massive counter-attack at the Battle of Bulge... but lost
+    * By March 1945, the Allies were fighting in Germany and pushing towards Berlin
+
+### VE Day
+* **IN April 1945, the Soviet army captured Berlin**
+    * On April 30<sup>th</sup>, 1945, Hitler sommitted suicide
+    * On May 9<sup>th</sup>, 1945, the German government signed an unconditional surrender to the Allies
+
+## WWII: Fighting in the Pacific
+### Warning Signs
+* **After the Meiji Resotoration of 1868, Japan becam an imperial power and began to expand its territory**
+    * took Taiwan and other territories from China
+    * took territories from Russia after winning the Russo-Japanese War
+    * annexed Korea in 1910
+
+### World War I
+* **Japan fought on the side of the Allied Power (US, BR, FR, etc.).**
+    * In the Treaty of Versailles, German territories in China were awarded to Japan.
+
+### After World War I
+* **Japan invades and conquers Manchuria (NE China)**
+    * Japan moves further into China in 1937
+        * Leads to the Rape of Nanjing
+
+### In 1940
+* **Germany invades and occupies France**
+    * Japan uses this opportunit to take over French Indochina
+    * Japan signs Tripartite Pact with Germany and Italy
+        * These three Axis Powers agree to:
+            > "establish and maintain a new order of things."
+
+### 1941
+* **In 1941, the U.S. stops exporting oil and gasoline to Japan**
+    * Japan wants to knock out the U.S. Navy before the U.S. can enter the war
+* **On December 7<sup>th</sup>, 1941, Japan bombs Pearl Harbor**
+    * The U.S. responds by declaring war on Japan
+
+### Japan Treatment of Captured nations
+* **While the U.S. was prepping its forces, Japan launched new invasions that brought virtually all of Southeast Asia under their control**
+    * How did Japanese soldiers behave in the places they invaded?
+        * Raped and tortured women
+        * Forced women and girls to become sex slaves
+        * Tossies babies in the air and bayoneted them
+        * Went into hospitals and stabbed parients and doctors
+        * Hung nuns and priests at churches
+        * Tossed children into pits with grenades
+        * Burned and buried civilians alive
+
+### Turning Point
+* **In May 1942, the U.S. finally stopped the Japanese advance in the Pacific at the Battle of the Coral Sea**
+* **The Battle of Midway (June 1942)**
+    * Was a major turning point in the war
+    * Japan lost aircraft carrriers and did not have the industrialization capacity to replace them
+* **After Midway, the Allies began an island-hopping strategy**:
+    * They focused on poorly defended islands close to the Japanese mainland
+    * This strategy worked, but it was slow and produced many casualties on both sides
+* **As Japan's military became weaker and more desperate, they tried more exteme tactics**
+    * As kamikaze attacks, Japanese suicide pilots crashed their bomb-laden planes into American ships
+
+### Bombing of Nagasaki and Hiroshima
+* **After victories at Iwo Jima and Okinawa, the U.S. considered an amphibious invasion of Japan**
+* **Truman's options**
+    1. **Invade Japan**
+        * More than 250,000 japanese casualties
+        * Up to 250,000 Allied casualties
+        * 100,000 Allied POWs in Japan will be executed
+    2. **Atomic Bomb**
+        * 20,000 Japanese casualties
+* **Under orders from Prsident Truman, the U.S. dropped an atomic bomb on Hiroshima**
+    * Three days later, the U.S. dropped an atomic bomb on Nagasaki
+    * President Harry Truman's advisors said the atomic bomb would produce fewer casualties than an invasion
+* **The Reality**
+    1. **Hiroshima**
+        * 70,000 Japanese deaths
+        * Plus approximitely 70,000 died later of radiation
+        * 23 American POW deaths
+* **When Japan surrendered, World War II came to an end**
+
 ---
 [1]: Breaking consistency to put in an image, but it helps because the region is unfamiliar to me
 [2]: officially recognized as part of the government, but geologically separate
