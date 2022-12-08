@@ -488,6 +488,50 @@ nav_order: 5
         * 23 American POW deaths
 * **When Japan surrendered, World War II came to an end**
 
+## Holocaust
+### Nazi Ideology
+* **Nazi Racism:**
+    * idea that the Germans, or Aryans, were the "Master race"
+    * all non-Aryans were inferior; especially the Jews
+    * Doesn't just fit the Jews, but manufactured to fit them
+* **Anti-Semitism**
+    > **Anti-Semitism** - Hated of Jewish people
+    * Labeled "untermenschen" (sub-human)
+    * Long existed in Western Europe
+    * During the depression of the 1920s Hitler claimed the entire Jewish community were anti-German and the source of the nation's problems
+    * Jewish leaders also played a dominate role in the acceptance of the Treaty of Versailles in 1919
+* **After 1920s:**
+    * Jews became the national enemy of Germany
+
+### Policies
+* **First solution**:
+    * **Nuremburg Laws** - laws passed to reduce the right of Jewsih people in Germany
+    * ex. German and Jews could not marry
+* **Kristallnacht:**
+    * Night of "broken glass"
+    * terror campaign against Jewish synagogues and Jewish owned businesses
+* **Isolation:**
+    * All Jews were forced to wear a patch with the Star of David
+    * > **Ghettos** - Germans began moving Jews into designated cities then into run down parts of the city known as ghettos
+    * > **Concentration camps** - Hitler moved Jews out of the cities to work camps that forced the Jews to work for the Nazi's. Stripper the Jewish community of individuality, taking away all their belongings
+* **Final Solution:**
+    * Concentration camps became death camps
+        * e.x. Auschwitz
+    * Hitler's plan for genocide or killing off of the Jews
+    * SS troops (Hitler's security force) became killing squads that searched through all German controlled territories hunting down Jews
+
+### Modes of Killings
+* **In the first years of the war, the gas chambers of the later Nazi concentration camps were not yet common.**
+* **Most victims were taken in groups to secultded areas where they were stripped of clothing, pushed into open pits, machine-gunned, and then quickly covered over, in many cases even before all of the them were dead**
+
+### Consequences of the Holocaust
+* **The slaughter of an estimated 6 million Jews (does not include Roman-Gypsies, Slavs, Poles, Handicapped, among others)**
+* **Nurembreg Trials: Nazi leaders brought to trial for "crimes against humanity" (Holocaust)**
+* **The Holocaust matters today because the violence against the Jews led to the founding of Israel after World War II**
+
+### Aftermath
+* **General Eisenhower inspects a camp in 1945**
+
 ---
 [1]: Breaking consistency to put in an image, but it helps because the region is unfamiliar to me
 [2]: officially recognized as part of the government, but geologically separate
