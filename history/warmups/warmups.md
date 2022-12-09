@@ -92,3 +92,7 @@ parent: history
 ## 12/5/22
 ### What factors led to the rise of totalitarian dictators in the 1920s to 1930s?
 > The great depression, rise of nationalism, the treaty of versailles (specifically for Germany), and high unemployment all led to the rise of totalitarian dictators.
+
+## 12/9/22
+### What was Hitler's Final Solution?
+> Exterminate the Jewish people...
