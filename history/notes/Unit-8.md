@@ -532,6 +532,71 @@ nav_order: 5
 ### Aftermath
 * **General Eisenhower inspects a camp in 1945**
 
----
-[1]: Breaking consistency to put in an image, but it helps because the region is unfamiliar to me
-[2]: officially recognized as part of the government, but geologically separate
+## Conferences of WWII
+### Tehran Conference of 1943
+* **Attendees:** Roosevelt, Churchhill, and Stalin
+* **Location:** Tehran, Iran
+* **Decisions:**
+    * Agreement to open a second battlefront in Europe
+    * Russia egreed to enter war against Japan after defeat of Germany
+
+### Yalta COnference 1945
+* **Attendees:** Roosevelt, Churchill, Stalin
+* **Location:** Yalta, Crimea, USSR
+* **Roosevelt's goals:**
+    * Get Stalin to agree to enter the war in the Pacific
+    * Get Stalin to accept a United Nations
+    * Have Stalin promise to allow free elections in Poland at the end of the war
+* **Decisions:**
+    * Germany to be disarmed and divided into 4 zones of occupation
+    * Verto power for Big Five nations at the UN
+    * Russia granted 3 seats at the UN General Assembly
+    * In exchange for entering war against Japan in 3 months after Germany surrenders, Russia gets land in and around Manchuria, Souther Sakhalin s. and Centeral Kurile island
+    * Russia pledges for free elections in East Europe
+    * War crime trials to be held after the war
+
+### Potsdam Conference 1945
+* **Attendees:** Truman, Stalin, and Churchill/ Attlee
+* **Location:** Potsdam, Germany
+* **Decisions:** 
+    * Potsdam Declaration - Japan to surrender unconditionally or face prompt and utter destruction
+    * A council is setup to administer Germany
+    * German people are moved out of Czeckoslovakia, Hungary and Poland into Germany
+    * Russia announces there would be no elections in eastern Europe
+        * Truman was not happy about this. Remember the Yalta Conference!
+    * Truman learns in Postdam that the atomic bomb was successfully tested in New Mexico
+
+## Cold War
+### Developments
+* **The United Nations was created which replaced the League of Nations**
+    * United Nations headquarters is in New York City
+* **The UN created a Jewish nation called Israel which set off a series of wars with Arabs in the Middle East**
+* **The Unit States occupied and helped rebuild Japan**
+* **The end of the war inspired independence throughout Africa and Asia, called decolonization**
+
+### Cold War Begins
+* **One of the most important changes after World War II was the beginning of the Cold War**
+    * From 1945 to 1991, the United States and Soviet Union entered an era of distrust and hosility known as the Cold War
+* **The United States and Soviet Union were superpowers that had different ideologies which influenced the Cold War**
+* **The two sides of the Cold War**
+    * Capitalism
+        >All industry business and agricultre should be owned by private people or firms
+        * United States
+    * Communism
+        > Everything belongs to the state and should be run by government on behalf of the people
+        * USSR
+* **The United States and Soviet Union were superpowers and rivals who dominated World Politiics**
+    * This was an era of competing ideologies: The USA promoted democracy and capitalism while the USSR tried to spread communism
+    * The different ideologies between USA and USSR and their desires to spread these ideas led to an era of distrust, hosility, proxy battles, and near nuclear war
+* **After Lenin's death in 1924, Joseph Stalin become leader of russia**
+* **World War II increased tensions between the USA and USSR**
+    * Stalin never trusted the Britain or the USA during World War II
+    * The Manhattan Project gave the USA a monopoly on nuclear weapon technology
+* **At the Ualta Conference, Stalin agreed to allow self-determination in Eastern Europe**
+    * But, Stalin wanted a "buffer sone" between the USSR and the democratic nations in Western Europe
+    * Stalin used his military to install communist governments in Eastern European nations
+* **In the years after World War II, the USA began to view Stalin as a new Hitler - a dangerous dictator who wanted to take over the world**
+* **By 1946, Europe was divided by an "iron curtain" that separated democratic/ capitalist Western Europe from communist/ totalitarian Eastern Europe**
+
+[^1]: Breaking consistency to put in an image, but it helps because the region is unfamiliar to me
+[^2]: officially recognized as part of the government, but geologically separate
