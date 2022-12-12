@@ -540,7 +540,7 @@ nav_order: 5
     * Agreement to open a second battlefront in Europe
     * Russia egreed to enter war against Japan after defeat of Germany
 
-### Yalta COnference 1945
+### Yalta Conference 1945
 * **Attendees:** Roosevelt, Churchill, Stalin
 * **Location:** Yalta, Crimea, USSR
 * **Roosevelt's goals:**
@@ -592,11 +592,60 @@ nav_order: 5
 * **World War II increased tensions between the USA and USSR**
     * Stalin never trusted the Britain or the USA during World War II
     * The Manhattan Project gave the USA a monopoly on nuclear weapon technology
+
 * **At the Ualta Conference, Stalin agreed to allow self-determination in Eastern Europe**
     * But, Stalin wanted a "buffer sone" between the USSR and the democratic nations in Western Europe
     * Stalin used his military to install communist governments in Eastern European nations
 * **In the years after World War II, the USA began to view Stalin as a new Hitler - a dangerous dictator who wanted to take over the world**
 * **By 1946, Europe was divided by an "iron curtain" that separated democratic/ capitalist Western Europe from communist/ totalitarian Eastern Europe**
+    * Capitalism and Democracy in Western Europe
+    * Communism and Totalitarianism in Eastern Europe/ Asia
+### Communism Containment
+* **The U.S. created a goerign policy called containment to stop Soviet influence and the spread of communism**
+    * When the USSR began to pressure Greece and Turkey to turn communist, the U.S. created the Truman Doctrine, promiising economic and military help to any nation threatened by communism
+    * The Truman Doctrine worked and neither Greece nor Turkey fell to communism
+* **European nations had difficulty recovering after WWII which led to fears of communism in Europe**
+    * The U.S. created the Marshall Plan which offered $13 billion to help rebuild post-war Europe
+    * By 1952, Western Europe recovered and Communism never took root
+* **In 1948, the USSR used military force to turn Czechoslovakia to communism
+    * This led to fears that Stalin would use similar tactics in Western Europe**
+* **In 1949, the United States formed the North Atlantic Treaty Organization (NATO): a military alliance among democratic countries in Europe and North America**
+* **At the end of WWII, Germany was divided into zones occupied by the USA, Britain, France, and the USSR**
+    * Berlin, the German capital was also divided but was located in the Soviet zone
+    * In 1948, Stalin tried to turn all of Berlin communist and ordered the Berlin Blockade which shut down all ground transportation to Western Berlin
+* **In response, the U.S. began the Berlin Airlift**
+    * For 11 months, U.S. and British planes supplies landed in Berlin to bring food, fuel, and supplies
+    * Stalin admitted defeat and lifted the blockade in 1949
+    * The United States successfully kept West Berlin from turning communist
+
+### Nuclear Arms Race
+* **The Soviet secured nuclear weapons technology and thus began an unprecedented arms race between the Soviets and the Americans**
+    * In 1952, the U.S. built the first hydrogen-bomb, a weapon with much greater destructive power, with the Soviet following suit within a year
+* **Hydrogen Bomb**
+    * New type of nuclear weapon
+    * Over 1,000 times more powerful than the bombs dropped on Hiroshima and Nagasaki
+* **The arsenals amassed on each side created fear and tension between the two nations**
+    * It also created a balance of power based on the principle of "mutually assured destruction"
+        * Each side could completely destroy the other many times over
+### Disarmament
+* **Over the course of the Cold War, Soviet and U.S. leaders made efforts to limit the use and spread of nuclear weapons**
+    * The United States, Soviet Union, and Britain signed the Nuclear Test Ban Treaty in 1963
+    * By banning tests in the atmosphere, space, and underwater they hoped to minimize the environmental impacts of radiation
+    * In 1968, the nuclear Non-proliferation Treaty, singed by 137 countries, aimed to limit the spread of nuclear weapons technology
+
+### Berlin Wall
+* **New USSR leader Nikita Khrushchev began a seires of reforms known as de-Stalinatization, which included releasing political prsoner and relaxing censorship**
+    * Khrushchev seemed willing to work with the USA to ease Cold War tensions
+* **Khrushchev was upset with the increasing number of communist East Germans who moved to democratic West Berlin**
+    * In 1961, Krushchev threatened to cut off access to West Berlin like Stalin's blockade in 1948
+    * President Kennedy promized to protect West Berlin
+* **Rather than blockade the city, Communist leaders built the Berlin Wall to keep East Germans out of West Berlin**
+    * The Berlin Wall became the iconic image of the Cold War
+    * Walls and other barriers 10-15 feet high surrounded West Berlin. The length of the barriers around the city totaled about 110 miles
+    * The "death strip" struched like a barren moat around West Berlin, with patrols, floodlights, electric fences, and vehicle traps between the inner and outer walls
+* **The fall...**
+    * As the Soviet system began to fall apart in the late 1980s, protests in East Germany convinced the government, which no longer had Soviet backing, to open the borders
+    * In 1989, Germans on both sides of the wall, tore down the wall, which has since become a symbol of the collapse of the communism
 
 [^1]: Breaking consistency to put in an image, but it helps because the region is unfamiliar to me
 [^2]: officially recognized as part of the government, but geologically separate
