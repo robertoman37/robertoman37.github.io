@@ -96,3 +96,6 @@ parent: history
 ## 12/9/22
 ### What was Hitler's Final Solution?
 > Exterminate the Jewish people...
+
+## 12/13/22
+### What impact did the spread of communism into Asia have on the Cold War?

@@ -343,7 +343,7 @@ nav_order: 5
 ### Rape of Nanjing
 * **Japan began invading arious regions in Asia**
     * Japan has almost no natual resources for their country and this military (Oil, Coal, etc.)
-    * Japan invaded CHina in 1937
+    * Japan invaded China in 1937
     * Japanese soldiers committed horrible atrocities against the Chinese people
     * Upwards of 30,000 dead and 80,000 women raped
 
@@ -646,6 +646,58 @@ nav_order: 5
 * **The fall...**
     * As the Soviet system began to fall apart in the late 1980s, protests in East Germany convinced the government, which no longer had Soviet backing, to open the borders
     * In 1989, Germans on both sides of the wall, tore down the wall, which has since become a symbol of the collapse of the communism
+
+### Communism spreading
+* **Beginning in 1949, however, containment seemed to fail as communism spread to China, Korea, and Vietnam in Asia**
+    * By 1900, China was weak and divided into spheres of influence
+* **A group of reformers called nationalist called for changes**
+    * In 1912, Sun Yat-Sen ended the Chinese dynastic system and created a democracy called the Republic of China
+    * But the republic did not medernize China and led to an era of chaos
+* **In the 1920s, nationalist leader Chian Kai-shek too over and ran CHina as a dictatorship**
+    * Meahwhile, communism was growing in China under the leadership of Mao Zedong
+    * Mao's communist Party gained popularity among poor peasants by offering to redistribute land from wealthy warlords
+    * From 1930 to 1949, Nationalist and Communist fought in a bloody civil war for control of China
+    * When WWII began, Chiang and Mao agreed to a truce from 1937 to 1945
+    * After WWII, Communist gained support and began to in control of China
+* **In 1949, the Communists won the Civil War and Mao created the Peoples' Republic of China**
+    * Chiang's government fled China and set up in Taiwan
+    * The USA was shocked when China fell to communistm and only recognized the Nationalist government
+* **Mao was determined to reshape China's economy based on Marxist socialism**
+    * He seized land from the rich and divided the land among the poor peasants
+    * Mao followed Stalin's example by creating collective farms and a Five Year Plan to improve the Chinese industry
+* **In 1958, Mao began a massive program to create agriculture and industry called the "Great Leap Forward"**
+    * Million of Chinese citizens were sent ot work on large collective farms to grow food
+    * Other citizens were required to work on massive industrial projects like making iron and steel or building dams and railroads
+    * Mao's great leap forward started well...
+* **But brought a lot of suffering among citizens as well as famines**
+* **After the failure of the Great Leap Forward, Mao began the Cultural Revolution**
+    * THe goal of the Cultural Revolution was to emphasize Mao's strict socialist ideas and attack traditional Chinese ideas
+    * Mao distributed to all Chinese citizens the "Little Red Book," a book of his quotes that reinforced was acceptable for Chinese communists
+    * Mao targeted young people and many joined the Red Guards, a group to protect the culture of the revolution
+    * Red Guards close schools and universities; burned books; and humiliated, beat, and killed people who opposed Mao's ideas
+    * The Cultural Revolution unified the Chinese people, but also led to the deaths of imprisonment of thousands of citizens
+* **In 1976, Mao Zedong died and was followed by more moderate Communist officials**
+    * In 1978, Deng Xiaoping took over CHina and began new economic reforms
+* **Den Xiaoping's economic reforms were called the our Modernizations and involved using capitalist ideas to help improve the Chinese economy**
+    1. Agriculture
+        * Ended collective farms and allowed farmers to rent land and grow crops for a profit
+        * As a result, food production increased by 50%
+    2. Industry
+        * Allowed privates businesses, relaxed controls of government-run factories, and let foreign companies open in China
+        * As a result, incomes rose and Chinese bought consumer goods, like TVs and appliances
+    3. Defense
+        * Modernized the military and built more nuclear weapons
+    4. Technology
+        * Invested in education, built a space program, and welcomed foriegn technological ideas
+* **These economic reforms led to a boom in the**
+* **Deng's reforms had unintended consequences for CHinese society**
+    * China's emphasis on education and the influx of Western companies led to many CHinese to learn more about democracy and question their own lack of personal freedoms
+    * Thousands of students demanded democracy and protested in Beijing's Tiananment Square in 1989 for for political freedom and economic reforms
+* **Chinese soldiers and tanks attacked the crowd, killing hundred of protestors**
+    * The Chinese government arrested and executed leaders of the protest
+    * The Communist Party increased control over citizens by repressing pro-democracy demands, censoring the media and information, and repressing freedom of speech
+* **China has one of the fastest growing economices in the world; Others include Brazil, India, Russia (BRIC nations)**
+    * But, China has a low wage work force, large gap between rich and poor, few personal freedoms, and human rights violations
 
 [^1]: Breaking consistency to put in an image, but it helps because the region is unfamiliar to me
 [^2]: officially recognized as part of the government, but geologically separate
