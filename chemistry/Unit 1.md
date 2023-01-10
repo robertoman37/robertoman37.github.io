@@ -37,3 +37,26 @@
     * $CaCl_2$
     * $NH_4Cl$
     * $KNO_3$
+## Precipitation reaction
+* An insoluble compound is formed in aqueous solution and precipitates
+* Determined using table of solubility
+* Solubility rules
+    * All nitrates are soluble
+    * All acetates are soluble
+    * Compounds with ammonium or an alkali metal are soluble
+* >**Net ionic equation** - determine what ions take part in the metathesis reaction
+    1. Write the products
+    2. Break each soluble compounds into contituent ions
+    3. Cross out spectators
+    4. Remaining compounds constitute the net ionic equation
+* eg. 1<br>
+    $$Pb(NO_3)_{2}(aq)+2KI(aq)\rightarrow PbI_2(s)+2KNO_3(aq)$$
+    Once crossing out spectators (not shown) we get
+    $$Pb^{+2}(aq)+2I^-(aq)\rightarrow PbI_2(s)$$
+* eg. 2<br>
+    $$NaNO_3(aq)+KCl(aq)\rightarrow NaCl(aq)+KNO_3(aq)$$
+    No reaction, all are aqueous
+* eg. 3<br>
+    $$2Li(s)+2H_2O(l)\rightarrow 2LiOH(aq)+H_2(g)$$
+    $$2Li(s)+2H_2O(l)\rightarrow 2Li^+(aq)+OH^-(aq)+H_2(g)$$
+* On most cases, you won't need to do this much work, but it helps to get a good understanding of it
