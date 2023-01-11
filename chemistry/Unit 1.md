@@ -115,7 +115,9 @@
     * $2Al^0 + 3I_2^0 \rightarrow 2Al^{+3}I_3^{-1}$<br>
         &nbsp;$Al^{0\rightarrow +3}$ Lost electrons, oxidized<br>
         &nbsp;$I^{0\rightarrow +3}$ Gained electrons, reduced
-    * $K^{0}+Na^{+1}O^{-2}H^{+1}\rightarrow Na^{0} + K^{+1}O^{-2}H^{+1}$
+    * $K^{0}+Na^{+1}O^{-2}H^{+1}\rightarrow Na^{0} + K^{+1}O^{-2}H^{+1}$<br>
+        &nbsp;$K$ Lost electrons, oxidized<br>
+        &nbsp;$Na$ Gained electrons, reduced
     * $4Fe^0 + 3O_2^0 \rightarrow 2Fe^{+3}O_3^{-2}$<br>
         &nbsp;$Fe$ lost electrons, oxidized<br>
         &nbsp;$O$ gained electrons, reduced
