@@ -61,6 +61,7 @@
     $$2Li(s)+2H_2O(l)\rightarrow 2LiOH(aq)+H_2(g)$$
     $$2Li(s)+2H_2O(l)\rightarrow 2Li^+(aq)+OH^-(aq)+H_2(g)$$
 * On most cases, you won't need to do this much work, but it helps to get a good understanding of it
+
 ## Acid-Base Reactions
 * Acids
     * Produce $H^+$ ions in aqueous solution
@@ -74,6 +75,7 @@
     * Neutralization reactions because water is neutral
     * After the reaction, the products have a pH closer to 7 than the reactants did
     * Net ionic equation is always $H^+(aq) + OH^- \rightarrow H_2O(l)$
+
 ## Oxidation-Reduction Reaction
 * One or more electrons are transferred
 * >**Oxidation** - Lose electron(s)
@@ -125,3 +127,9 @@
         &nbsp;$C$ lost electrons, oxidized<br>
         &nbsp;$O$ gained electrons, reduced
 * **NOTE**: elements can be both reduced and oxidized at the same time
+
+## Hydrates
+> **hydrate** - Compound that contains water
+* The number of water molecules becomes a prefix before the word "hydrate"
+    * eg. Sodium carbonate decahydrate: $Na_2CO_3 * 10H_2O$
+    * eg. Strontium chloride hexahydrate: $SrCO_2 * 6H_2O$
