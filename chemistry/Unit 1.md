@@ -168,22 +168,20 @@
     * eg. 3
     $$2HNO_3+Ba(OH)_2\rightarrow 3HOH+Ba(NO_3)_2$$
     $$\frac{50.00mL\ Ba(OH)_2}{1}*\frac{1L\ Ba(OH)_2}{1000mL\ Ba(OH)_2}*\frac{0.033M\ Ba(OH)_2}{1L\ Ba(OH)_2}\\*\frac{2mol\ HNO_3}{1mol\ Ba(OH)_2}*\frac{1L}{0.223mol\ HNO_3}=0.015L\ HNO_3$$
-# <center>Thermochemistry
+## <center>Thermochemistry
 * Remember:
     * On a fundamental level, chemistry deals directly with energy changes
 * Thermodynamics describes effects of work, heat, and energy on a system
     * Describes energetic properties of substances
     * Helps predict if a chemical change will occur
 
-## <center>Energy
+### <center>Energy
 * Driver of all changes
 * Flows between objects and spreads throughout the universe
 * Examples:
     * Kinetic, potential, etc.
 * Kinetic v potential:
     * Kinetic - energy of motion
-    * 
-
 * Energy Transfer
     * When high energy particles collide with lower energy energy particles, energy is transferred
     * Eventually, each particle will posses an equal amount of energy (on average)
@@ -215,7 +213,7 @@
     * Molar heat capacity - 1 mole of a substance is applied
     * $q=mc\Delta T$
 
-## <center>Calorimetry
+### <center>Calorimetry
 * Process of measuring the amount of heat released or absorbed during a chemical reaction
 Reaction must be isolated so that no heat is lost to the environment
 * Calorimeters insulate the reaction to better contain heat
@@ -230,7 +228,7 @@ Reaction must be isolated so that no heat is lost to the environment
     * $q_{solution}=-q_{substance}$
     * $q_{surroundings}=-q_{system}$
 
-## <center>Enthalphy
+### <center>Enthalphy
 * Quantifies the heat flow into or out of a system in a process that occurs at constant pressure
     * $H = Enthalpy$
     * $\Delta H = H_{products}-H_{reactants}$
@@ -253,7 +251,7 @@ Reaction must be isolated so that no heat is lost to the environment
     2. Use mass of the limiting reactant to determine moles
     3. Divide q by moles to determine enthalpy
 
-## <center>Work and Energy
+### <center>Work and Energy
 $$w=-P\Delta V$$
 * If $\Delta V$ is positive (increases), work is done *by* the system
 * If $\Delta V$ is negative (decreases), work is done *on* the system
@@ -271,7 +269,7 @@ $$w=-P\Delta V$$
 |w (work)  |Work done ON the system|Work done by the system|
 |$\Delta E$|      gains energy     |    releases energy    |
 
-## <center>Thermochemical Equations
+### <center>Thermochemical Equations
 * Express heat changes in a chemical reaction
 * Treat the heat change ($\Delta H$) like any other reactant or product
 * eg. 
