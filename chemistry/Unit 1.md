@@ -1,13 +1,13 @@
-# Unit 1
-## Solutions
-### Aqueous Solutions
+# <center>Unit 1
+## <center>Solutions
+### <center>Aqueous Solutions
 * All solutions consist of a solute and solvent
 * >**Solvent** - bulk material; makes up most of the volume of the solution
 * >**Solute** - minor constituent
 * >**Aqueous solution** - water is the solvent
 
-### Solvation Porcess
-* >**Ioinic Compound** - stabilization of cation and anion (if aqueous)
+### <center>Solvation Porcess
+* >**Ionic Compound** - stabilization of cation and anion (if aqueous)
 * Molecular compounds that have a polar group are more soluble than those that don't
 * >**Dissolution** - Act of process of dissolving into parts or elements
     * **Does not split into ions**
@@ -15,11 +15,11 @@
     * ions
     * Ionic compounds always dissociate
 
-### Electrolytes vs nonelectrolytes
+### <center>Electrolytes vs nonelectrolytes
 * >**Electrolyte** - Solute dissociates into ions in aqueous solution; capable of conducting electricity
 * >**Nonelectrolyte** - molecular compounds that may be soluble but do not conduct electricity
 
-### Strong v Weak Electrolyte
+### <center>Strong v Weak Electrolyte
 * Most ionic compounds are electrolytes
 * Some molecular compounds are weak electrolytes
     * Mainly organic acids
@@ -38,7 +38,7 @@
     * $NH_4Cl$
     * $KNO_3$
 
-## Precipitation reaction
+## <center>Precipitation reaction
 * An insoluble compound is formed in aqueous solution and precipitates
 * Determined using table of solubility
 * Solubility rules
@@ -62,7 +62,7 @@
     $$2Li(s)+2H_2O(l)\rightarrow 2Li^+(aq)+OH^-(aq)+H_2(g)$$
 * On most cases, you won't need to do this much work, but it helps to get a good understanding of it
 
-## Acid-Base Reactions
+## <center>Acid-Base Reactions
 * Acids
     * Produce $H^+$ ions in aqueous solution
     * $HCl(g)\rightarrow H^+(aq) + Cl^-$
@@ -70,13 +70,13 @@
     * Produce $OH^-$ ions in aqueous solution
     * $NaOH(s)\rightarrow Na^+(aq)+OH^-$
 
-## Neutralization Reaction
+## <center>Neutralization Reaction
 * Acids and bases react together to form water an an ionic salt
     * Neutralization reactions because water is neutral
     * After the reaction, the products have a pH closer to 7 than the reactants did
     * Net ionic equation is always $H^+(aq) + OH^- \rightarrow H_2O(l)$
 
-## Oxidation-Reduction Reaction
+## <center>Oxidation-Reduction Reaction
 * One or more electrons are transferred
 * >**Oxidation** - Lose electron(s)
 * >**Reduction** - Gain electron(s)
@@ -128,13 +128,13 @@
         &nbsp;$O$ gained electrons, reduced
 * **NOTE**: elements can be both reduced and oxidized at the same time
 
-## Hydrates
+## <center>Hydrates
 > **hydrate** - Compound that contains water
 * The number of water molecules becomes a prefix before the word "hydrate"
     * eg. Sodium carbonate decahydrate: $Na_2CO_3 * 10H_2O$
     * eg. Strontium chloride hexahydrate: $SrCO_2 * 6H_2O$
 
-## Solution stoichometry
+## <Center>Solution stoichometry
 * Many ways to express concentration of a solution
     * Most common is molarity:
     $$Molarity=\frac{moles\ of\ solute}{Liters\ of\ solution}$$
@@ -168,15 +168,14 @@
     * eg. 3
     $$2HNO_3+Ba(OH)_2\rightarrow 3HOH+Ba(NO_3)_2$$
     $$\frac{50.00mL\ Ba(OH)_2}{1}*\frac{1L\ Ba(OH)_2}{1000mL\ Ba(OH)_2}*\frac{0.033M\ Ba(OH)_2}{1L\ Ba(OH)_2}\\*\frac{2mol\ HNO_3}{1mol\ Ba(OH)_2}*\frac{1L}{0.223mol\ HNO_3}=0.015L\ HNO_3$$
-# Thermochemistry
-## Thermodynamics
+# <center>Thermochemistry
 * Remember:
     * On a fundamental level, chemistry deals directly with energy changes
 * Thermodynamics describes effects of work, heat, and energy on a system
     * Describes energetic properties of substances
     * Helps predict if a chemical change will occur
 
-## Energy
+## <center>Energy
 * Driver of all changes
 * Flows between objects and spreads throughout the universe
 * Examples:
@@ -216,7 +215,7 @@
     * Molar heat capacity - 1 mole of a substance is applied
     * $q=mc\Delta T$
 
-##  Calorimetry
+## <center>Calorimetry
 * Process of measuring the amount of heat released or absorbed during a chemical reaction
 Reaction must be isolated so that no heat is lost to the environment
 * Calorimeters insulate the reaction to better contain heat
@@ -231,7 +230,7 @@ Reaction must be isolated so that no heat is lost to the environment
     * $q_{solution}=-q_{substance}$
     * $q_{surroundings}=-q_{system}$
 
-## Enthalphy
+## <center>Enthalphy
 * Quantifies the heat flow into or out of a system in a process that occurs at constant pressure
     * $H = Enthalpy$
     * $\Delta H = H_{products}-H_{reactants}$
@@ -253,3 +252,31 @@ Reaction must be isolated so that no heat is lost to the environment
         * Use specific heat of excess reactant
     2. Use mass of the limiting reactant to determine moles
     3. Divide q by moles to determine enthalpy
+
+## <center>Work and Energy
+$$w=-P\Delta V$$
+* If $\Delta V$ is positive (increases), work is done *by* the system
+* If $\Delta V$ is negative (decreases), work is done *on* the system
+>**State function** - doesn't matter how you arrive at the final state, only on what the final state is
+* $\Delta E$ is a state function
+* q and w are NOT state functions
+* *Energy is transferred through work or heat*
+* $\Delta E = q + w$
+    * q = heat
+    * w = work = $-P\Delta V$
+
+|          |           +           |           -           |
+|:--------:|:---------------------:|:---------------------:|
+|q (heat)  |      gains heat       |     releases heat     |
+|w (work)  |Work done ON the system|Work done by the system|
+|$\Delta E$|      gains energy     |    releases energy    |
+
+## <center>Thermochemical Equations
+* Express heat changes in a chemical reaction
+* Treat the heat change ($\Delta H$) like any other reactant or product
+* eg. 
+$$2H_2O(g) + O_2(g) \rightarrow 2H_2O \\\Delta H = -483.6kJ$$
+* Use stoichiometry to compare equations in terms of energy changes
+* Based of Hess's Law and tabulated enthalpies of formation, the following expression can be used to calculate $\Delta H\degree_{rxn}$
+$$\Delta H\degree_{rxn}=\sum\Delta H\degree_f(products)-\sum\Delta H\degree_f(reactants)$$
+* When creating graphs for these reactions, y = $\Delta H$, x = reaction progress
