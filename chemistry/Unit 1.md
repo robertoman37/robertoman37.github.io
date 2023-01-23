@@ -278,3 +278,17 @@ $$2H_2O(g) + O_2(g) \rightarrow 2H_2O \\\Delta H = -483.6kJ$$
 * Based of Hess's Law and tabulated enthalpies of formation, the following expression can be used to calculate $\Delta H\degree_{rxn}$
 $$\Delta H\degree_{rxn}=\sum\Delta H\degree_f(products)-\sum\Delta H\degree_f(reactants)$$
 * When creating graphs for these reactions, y = $\Delta H$, x = reaction progress
+
+### <center>Hess's Law</center>
+<center> Hess's law of Constant heat summation</center><br>
+
+* Regardless of multiple stages or stpes of a reaction, the total enthalpy change for the raction is the sum of all the changes
+* Steps:
+    1. Balance the individual equations
+    2. If necessary, look up the standard enthalpies
+    3. Flip equations around if necessary to cancel out terms on both sides
+    4. Multiply the corefficients of an equations if necessary to specific terms to cancel
+    5. ANY change to the equation also changes the standard enthalpy
+        * Flipping the equations = sign change of H
+        * Multiplying the coefficient = multiply H by the same value
+    6. Add the enthalpies of the individual steps
