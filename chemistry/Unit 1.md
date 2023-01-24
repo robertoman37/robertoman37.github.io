@@ -157,7 +157,7 @@
     $$x=10.3mL\ HCl$$
     $$500mL-10.3mL=489.7mL\ solvent$$
 * Solution stoichiometry
-    * Most often applies to data obtained thorugh a titration
+    * Most often applies to data obtained through a titration
     * >**Titration** - technique for determining the amount of solute in a given sample
     * eg. 1
     $$3NaOH+Al(NO_3)_3\rightarrow Al(OH)_3+3NaNO_3$$
