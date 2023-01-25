@@ -224,11 +224,100 @@ Ok, this part is really boring, so I'll go through it really quickly
 * How to write this out
     * You write this out by first writing the energy level, then the sublevel, and then the number of electrons in the orbital
         * **ex**: Carbon: $1s^22s^22p^2$
-    * You can also shortcut this method by basing it off of the closest noble gas
+    * You can also shortcut this method by basing it off of the closest noble gas (method called noble gas configuration)
         * **ex**: zinc: $[Ar]4s^23d^{10}$
-    * Also, for Lewis Dot Structure, you draw dots around the 
+    * Also, for Lewis Dot Structure, you draw dots around the element symbol according to the amount of electrons it has on its outermost shell.
 
+### Periodic Trends
+* The different numbers of groups in the periodic table correspond to the names of different element families
+    * Group 1 includes alkali earth metals
+    * Group 2 includes alkaline earth metals
+    * Groups 3-12 include transition metals/ elements
+    * Group 17 includes halogens
+    * Group 18 includes noble gases
+    * Period 6 f-block includes lanthanides
+    * Period 7 f-block includes actinides
+* Each of these elements have specific characteristics that will not be gone over in this review
+* >**Effective Nuclear Charge** - attractive force from the protons in the nucleus to the valence electrons
+    * Coulomb's Law states that this force is proportional to the distance between the protons and the electrons
+* Perioidic trends
+    * >**Atomic radius** - size of the atom
+        * Increases toward francium
+    * >**Ionic radius** - size of the ion formed by an atom
+        * Also increases toward francium
+        * Breaks at group 14
+    * >**Ionization Energy** - energy needed to remove an electron
+        * Increases towards the top right corner
+    * >**Electronegativity** - An atoms ability to attract electrons
+        * Increases towards the top right corner
+        * Does not apply to noble gases
+    * >**Electron affinity** - amount of energy releases when an electron is added to a neutral atom
+        * increases towards helium
+    * >**Chemical Reactivity** - describes how easily an element reacts
+        * Increases towards bottom left for metals
+        * Increases towards top left for nonmetals
+* And that's all for unit 3
 
+## Unit 4
+### Interpreting Chemical Formulas
+* Ok this is really easy, in a chemical formula the subscripts show you how many of each chemical there is. If there is subscripts around a parenthesis, there is multiple of that compound in the formula.
+
+### Types of bonds
+* There are two different types of bonds for elements
+    * Ionic
+        * One atom takes electrons from another to gain an octet. This makes these atoms oppositely charged which attracts them together
+        * Forms between metals and non-metals
+    * Covalent
+        * Atoms share electrons to get an octet
+        * Forms between nonmetals
+
+### Naming Chemicals
+* The naming rules are as follows.
+* Does the chemical have a formula?
+    * If yes, is it a main group metal or a transition metal?
+        * If main group, does it have 2 or more than 2 elements?
+            * If less than 2, simple bi-ionic
+            * If more than 2, ternary ionic
+        * If transition, does it have 2 or less than 2 elements?
+            * if less than 2 elements, Binary ionic with transition metal
+            * If more than 2 elements, ternary ionic with transition metal
+    * If no, is it an acid (first element is Hydrogen)?
+        * If it's an acid, does it have 2 or more than 2 elements?
+            * If it has 2, binary acid
+            * If it has more than 2, ternary acid
+        * If it's not an acid, does it have 2 or more than 2 elements?
+            * If it has 2, binary covalent
+            * If it has more than 2, ternary ionic
+* IUPAC naming conventions
+    * Ionic with main group metals
+        * Put -ide at the end of the last element
+        * -ate or -ite for polyatomic ions
+        * Use whatever methods you may to balance the chemical to make the charge 0
+    * Ionic with transition metals
+        * Same as before, except use a roman numeral to indicate the charge of the transition metal
+    * Acids
+        * Use hydro- and -ic when polyatomic ions are not used
+        * If polyatomic ions are being used, replace -ate with -ic and -ite with -ous
+    * Covalent
+        * Depend on prefixes to tell you how many of each element are in the formula
+
+### Lewis Structures
+* Look it up, I don't feel like explaining this
+
+### Intermolecular Forces
+>Forces between molecules, not inside them
+* Dipole
+    * A molecule that has a positive charge at one end and a negative charge at the other
+    * This doesn't mean that it is technically positively charged though. It has to do with the distribution of electrons throughout the molecule
+* Types of intermolecular forces
+    * London dispersion force
+        * weakest intermolecular force
+        * Since electrons are always orbiting around the nucleus, temporary dipoles are created as the distribution of electrons change.
+    * dipole-dipole dispersion forces
+        * This is just when two oppositely charged dipoles attract
+    * hydrogen bonding
+        * strongest intermolecular force
+        * Occurs when F, O, or N is bonded to hydrogen
 ---
 [^1]: This is gonna be super long, but idc
 [^2]: I explained that horribly, but whatever
