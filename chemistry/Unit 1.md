@@ -1,3 +1,9 @@
+---
+layout: default
+parent: Chemistry
+nav_order: 2
+title: Unit 1
+---
 # <center>Unit 1
 ## <center>Solutions
 ### <center>Aqueous Solutions

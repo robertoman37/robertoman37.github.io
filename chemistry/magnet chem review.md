@@ -1,3 +1,10 @@
+---
+layout: default
+parent: Chemistry
+nav_order: 1
+title: Magnet Chem Review
+---
+
 # Everything from Magnet chem [^1]
 ## Unit 1
 ---
