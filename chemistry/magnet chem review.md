@@ -43,33 +43,34 @@ Ok, here's where it actually starts
 * We start off with super basic chem stuff
 
 <table>
-<tr>
-    <th>Particle</th>
-    <th>Symbol</th>
-    <th>Mass</th>
-    <th>Location in the Atom</th>
-    <th>Charge</th>
-</tr>
-<tr>
-    <th>Proton</th>
-    <td>P<sup>+</sup></td>
-    <td>1 amu</td>
-    <td>Nucleus</td>
-    <td>+1</td>
-</tr>
-<tr>
-    <th>Neutron</th>
-    <td>n<sup>0</sup></td>
-    <td>1 amu [^4]</td>
-    <td>Nucleus</td>
-    <td>0<td>
-</tr>
-<tr>
-    <th>Electron</th>
-    <td>e<sup>-</sup></td>
-    <td>negligible</td>
-    <td>Electron Cloud</td>
-    <td>-1</td>
+    <tr>
+        <th>Particle</th>
+        <th>Symbol</th>
+        <th>Mass</th>
+        <th>Location in the Atom</th>
+        <th>Charge</th>
+    </tr>
+    <tr>
+        <th>Proton</th>
+        <td>P<sup>+</sup></td>
+        <td>1 amu</td>
+        <td>Nucleus</td>
+        <td>+1</td>
+    </tr>
+    <tr>
+        <th>Neutron</th>
+        <td>n<sup>0</sup></td>
+        <td>1 amu [^4]</td>
+        <td>Nucleus</td>
+        <td>0<td>
+    </tr>
+    <tr>
+        <th>Electron</th>
+        <td>e<sup>-</sup></td>
+        <td>negligible</td>
+        <td>Electron Cloud</td>
+        <td>-1</td>
+    </tr>
 </table>
 
 * The periodic table has three different sections.

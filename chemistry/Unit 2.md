@@ -114,4 +114,4 @@ title: Unit 2
     * examples:
         * Si: $3s^23p^2$
         * Fe: $4s^23d^6$
-        * As: $$
+        * As: $2s^24p^5$
