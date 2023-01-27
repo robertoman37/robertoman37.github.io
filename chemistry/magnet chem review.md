@@ -41,6 +41,7 @@ Ok, here's where it actually starts
 ### Atomic Structure
 ---
 * We start off with super basic chem stuff
+
 <table>
 <tr>
     <th>Particle</th>
