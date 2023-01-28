@@ -4,6 +4,54 @@ parent: Chemistry
 nav_order: 3
 title: Unit 2
 ---
+# <center>Unit 2
+## <center>Atomic structure/ models
+### <center>Evolution of the Atomic Model
+* Democritus/ Dalton Model
+    * Sphere that can't be broken down
+* Thompson "Plum PUdding" Model
+    * Electrons, no nucleus
+* Rutherford Model
+    * Electrons + positive Nucleus
+    * Neutron not discovered
+    * Why doesn't the electrons fall into the nucleus
+### <center>Atomic orbital diagram
+* Represents location of subatomic particles
+    * Must include all parts: Protons, Neutrons, and electrons
+* Bohr model: Electrons in the electrons cloud exist at different energy levels
+
+* Developing this model:
+    * Wavelength is inversely related to frequency related to frequency
+        $$c=\lambda v$$
+        * $C$ = speed of light (on reference page)
+        * $\lambda$ = wavelength ($m$)
+            * Must be in same units as $c$
+        * $v$ = frequency ($hz$)($\frac{1}{sec}$)
+    * Energy exists in quantized packets and is directly related to frequency
+        $$E=hv$$
+        * $E$ = energy
+        * $h$ = plank's constant
+        * $v$ = frequency
+    * If energy is related to frequency and frequency is related to wavelength, Then energy must also be (inversely) related to wavelength
+        $$E=\frac{hc}{\lambda}$$
+        * Same meanings for variables as previously stated
+        * Not on reference page
+### <center>Line Spectra
+* Scientists studied emission spectra of inidividual elements
+    * Elements emit unique wavelengths of light
+    * When light strikes the surface of metals, electrons are ejected with a specific frequency
+        * Intensity of the light doesn't matter
+* Photoelectric effect
+    * Increasing intensity of light has no effect on the emission spectra of elements
+    * Led to idea that light exists as both a wave and a discreet packet of energy (photon)
+    * Waves must fit perfects around the nucleus because there can be no constructive or destructive interference
+        * Would otherwise cancel themselves out which is impossible
+* Bohr Model
+    * Based on quantized energy
+    1. Only orbits of exact radii are permitted
+    2. An "allowed" state is one in which an electrons has a specific energy
+    3. As electrons move between "allowed states," a photon of energy is absorbed or emitted
+    4. Increase energy releasted = increased frequency = decreased wavelength
 ### Energy sublevels
 * Regions where an electrons is likely to be found
 * Never know the EXACT location of an electron because they're always moving
