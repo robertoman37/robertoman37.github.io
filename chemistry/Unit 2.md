@@ -178,7 +178,6 @@ title: Unit 2
 ### Coulomb's Law
 $F=\frac{kq_1q_2}{r^2}$
 * Describes the amount of force of attraction or repulsion experienced by charged particles
-    $F=\frac{kq_1q_2}{r^2}$
     * The closer two charges are to each other, the stronger the force is between them
     * The larger the magnitude of the charge(s), the stronger the force
 
