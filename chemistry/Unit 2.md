@@ -163,3 +163,67 @@ title: Unit 2
         * Si: $3s^23p^2$
         * Fe: $4s^23d^6$
         * As: $2s^24p^5$
+
+## Periodic Trends
+### Effective Nuclear Charge
+* Net positive charge experienced by valence electrons
+    * Valence electrons are attracted to positive charge of the nucleus
+    * Valence electrons also experience a "shielding effect" as core electrons shield the pull of the protons in the nucleus
+* $Z_{eff} = protons - core\ e^-$
+    * Trends
+        * Increases across a period
+        * Increases *slightly* down a group (because more protons in nucleus)
+            * While the protons and electrons increase by the same amount, shielding becomes less effective, causing $Z_{eff}$ to be *slightly* larger
+
+### Coulomb's Law
+$F=\frac{kq_1q_2}{r^2}$
+* Describes the amount of force of attraction or repulsion experienced by charged particles
+    $F=\frac{kq_1q_2}{r^2}$
+    * The closer two charges are to each other, the stronger the force is between them
+    * The larger the magnitude of the charge(s), the stronger the force
+
+### Atomic Radius
+* Size of the atom
+    * Decreases along a period
+    * Increases down a group
+    * Increases toward $Fr$
+    * Inversely related to $Z_{eff}$
+
+### Ionic Radius
+* Radius of an atom that has lost or gained an electron
+    * Cations - smaller
+        * As electrons decrease, $Z_{eff}$ increases for cations, causing its size to decrease
+    * Anions - larger
+        * As electrons increase, $Z_{eff}$ decreases for anions, causing its size to increase
+
+### Isoelectronic Species
+* Isoelectronic - ions that have equal numbers of electrons
+* Trend depends on the number of protons (increased Z = smaller radius)
+    * largest in series is the highest positive charge
+
+### Ionization Energy
+* Energy needed to remove an electron from a neutral atom (in the gas phase)
+    * $Na(g) + energy \rightarrow Na^+(g) + e^-$
+* Increases along a period; Decreases down a group
+    * Also increases with removal of successive electrons
+    * Because $Z_{eff}$ Increases down a period
+
+### Electronegativity
+* Atom's relative ability to attract electrons in a chemical compound
+    * Increase across a period
+    * Decreases down a group
+    * Increases toward $F$
+    * Because $Z_{eff}$ increases
+
+### Electron Affinity
+* Mean of an element's desire to add an electrons (form an anion)
+    * energy released when atom gets an electron
+    * Trend is not clearly defined but tends to increase across a period and decrease down a group
+
+## Photoelectron Spectroscopy (PES)
+* Method for confirming electronic structure
+* Directly measures the amount of energy required to remove each electron from an atom
+
+### PES Spectra
+* X axis is the energy
+* Y axis is $\Delta e^-$
