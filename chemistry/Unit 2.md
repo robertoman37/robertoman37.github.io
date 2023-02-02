@@ -226,3 +226,81 @@ $F=\frac{kq_1q_2}{r^2}$
 ### PES Spectra
 * X axis is the energy
 * Y axis is $\Delta e^-$
+
+## Chemical bonds
+* Formed by sharing or donating electrons between multiple atoms
+* 3 main types:
+    * Ionic - no sharing
+    * Covalent - shared to various extents
+    * Metallic - Occurs in pure metallic samples
+
+### Ionic bonds
+* Involves complete transfer of an electron
+    * No sharing
+* Typically occurs between metal and nonmetal
+    * Metals lose electrons
+    * Nonmetals gain electrons
+    * Positive metal ion attracts negative nonmetal ion
+
+### Electron dot diagrams
+* Shows valence electrons around an atom
+* To draw:
+    1. Write the chemical symbol of the element
+    2. Place one dot around the symbol for each valence electron(up to 8); do not fair until after the first 4 electrons
+    Everything else is symbolized by the symbol
+* Ex: $\ddot{He}$
+* Properties:
+    * Form crystalline lattices
+        * Ions surround each other and pack close together
+        * Net charge of lattice is 0
+    * Strong electrolytes
+    Have high melting points
+    * Form hard, rigid, and brittle solids
+* > Lattice energy - energy required to completely rip apart 1 mole of an ionic compound into gaseous ions
+    * size of atoms is inversely related to it's lattice energy, which is directly proportional to the energy required to tear it.
+* Results of coulombic forces
+    * $E = \frac{kQ_1Q_2}{d^2}$
+    * Q = charge = magnitude of charge $\uparrow$ = $\uparrow F$ ($\uparrow E$)
+* Ion Formation and Electron configuration
+    * Atoms bond in order to achieve stability
+        * Group 18 elements are the ONLY stable elements
+        * Other atoms can share, lose, or gain electrons while bonding with other atoms
+        * Full outer energy level = stable (Octet rule)
+
+## Covalent Bonding
+* Electrons are shared
+* **Important**: There is essentially a spectrum between ionic and covalent compounds based on electronegativity difference(s) in bonding atoms
+
+### Bonding and Electronegativity
+* Nonpolar Covalent Bonds
+    * Electrons are shared equally
+    * Very small difference in electronegativity
+    * Diatomics are only pure nonpolar
+* Polar covalent bonds
+    * Electrons are shared unequally
+    * Difference in element electronegativity causes unequal sharing of electrons
+* Ionic bonds
+    * Electrons are transferred because electronegativity values are SO different, that ions are created
+    * Elements in the bond have electronegativity value difference greater than or equal to 2.5
+
+### Dipole Moments
+> Increased difference in electronegativity = increased polarity = dipole
+* > **Dipole** - A molecule that has a positive charge at one end and a negative charge at the other
+    * Caused by the moevemnt of electrons and the electronegativity of an element
+
+### Lewis Dot Structures
+* Representation of covalent bonds
+* Indicates each atom, bonding electrons, and non-bonding electrons
+* Multiple bonds may form due to sharing of more than 1 electron pair
+    * **As bond order increases, bond length decreases**
+* Drawing Lewis Dot Structures
+    1. Determine how many valence electrons are available for the structure
+    2. Most electronegative element is in center; connect everything to the middle atom
+    3. Add electron pair to outside elements
+    4. Check central atom
+    5. Rearrange if needed
+
+### Bond Enthalpy
+* Enthalpy associated with the breaking of a chemical bond
+* Can be used with Hess's Law to estimate the enthalpy of a reaction:
+$$\Delta H_{rxn}=\sum\Big(\Delta H_{bonds\ broken}-\Delta H_{bonds\ broken}\Big)$$
