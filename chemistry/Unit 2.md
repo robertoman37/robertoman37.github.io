@@ -304,3 +304,42 @@ $F=\frac{kq_1q_2}{r^2}$
 * Enthalpy associated with the breaking of a chemical bond
 * Can be used with Hess's Law to estimate the enthalpy of a reaction:
 $$\Delta H_{rxn}=\sum\Big(\Delta H_{bonds\ broken}-\Delta H_{bonds\ broken}\Big)$$
+
+### Formal Charge
+* Equivalent to the total charge on the molecule
+* Helps keep track of electrons in a molecule
+* $Charge=Valence - bonds(lines)-unbonded\ electrons(dots)$
+* Must consider formal charge when more than 1 lewis structure is possible:
+    * Fewest number of atoms with a charge is *best*
+    * Negative charges should be placed on atoms with greatest electronegativity values
+
+### Resonance Structures
+* Two or more Lewis structures are possible
+* Bond length is between that of a single and a double bond
+
+### Exceptions to the Octet Rule
+* Already mentioned H, Be, and B as exceptions, but others exist
+* Expanded octets:
+    * S
+    * I
+    * Xe
+    * P
+    * Sb
+    * Cl
+    * As
+    * Se
+    * Br
+    * Te
+* All right next to each other in the periodic table
+* Empty d-orbitals are capable of accepting electrons (and thus expanding the octet)
+
+* Lewis structures with Expanded Octets
+    1. Determine how many valence electrons available for the structure
+    2. Element that requires most electrons is in center; connect everything to the middle atom
+    3. Add electrons pairs to outside elements
+    4. Check central atom and formal charge (especially with O)
+    5. Rearrange if needed
+
+### Odd Electron Species
+* There are a few molecules that have an odd number of valence electrons
+* Result: It is impossible to place an octet of electrons around each atom   
