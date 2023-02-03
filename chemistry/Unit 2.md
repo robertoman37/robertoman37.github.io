@@ -343,3 +343,34 @@ $$\Delta H_{rxn}=\sum\Big(\Delta H_{bonds\ broken}-\Delta H_{bonds\ broken}\Big)
 ### Odd Electron Species
 * There are a few molecules that have an odd number of valence electrons
 * Result: It is impossible to place an octet of electrons around each atom   
+
+## VSEPR Theory
+* VSEPR theory gives 3-D shapes
+    * Valence Shell Electron Pair Repulsion
+* Governed by interaction of electron clouds
+* Electron clouds repel each other and separate as much as possible
+* Electronic Geometry
+    * Describes a shape of electron clouds on central atom
+* Molecular Shape
+    * Takes into conisderation the effect of lone pairs but ignores their existence
+* Determining Geometries
+    1. Draw the Lewis dot structure of the the compound
+    2. Use the number of lone pairs and bonded atoms to determine geometry and angle
+    4. *Remove* lone pairs to determine shape
+* Things with two atoms are ALWAYS $180\degree$
+### Deviations from Ideal Bond Angles
+* VSEPR provides ideal bond angles that are affected by:
+    * Lone pairs
+    * Large Atoms
+    * Bond order > 1
+* These usually cause the bond angle to be less than ideal
+
+### Expanded Octet Geometries
+* Trigonal Pyramidal and Octahedral have 2 distinct points:
+    * Equatorial
+    * Axial
+
+### Shapes of Larger Molecules
+* VSEPR theory describes geometry with respect to central atom
+* Many molecules exist that have more than 1 central atom
+* Therefore, more than 1 central atom = different geometry at each
