@@ -67,6 +67,7 @@ title: Unit 2
 
 * Electron's mass is so small they can be characterized as waves
     * Nodes give us specific shapes for regions of space where electrons can be found
+        * Nodes are the point where the wave function of the electron cloud crosses the x axis
     * Atomic orbital shapes define the region of space that encompasses the probability or electron density for an electron
 
 ### Electron sublevels
@@ -374,3 +375,38 @@ $$\Delta H_{rxn}=\sum\Big(\Delta H_{bonds\ broken}-\Delta H_{bonds\ broken}\Big)
 * VSEPR theory describes geometry with respect to central atom
 * Many molecules exist that have more than 1 central atom
 * Therefore, more than 1 central atom = different geometry at each
+
+## Valence Bond Theory
+* Combination of Lewis Structures and Orbital Diagrams (s, p, d, f)
+    * Bonds are not just lines
+* Covalent bonds happen when atomic orbitals of atoms overlap
+* Elements involved in bonding modify orbitals to reach minimum energy configuration
+
+### Bond Length
+* Distance between the nuclei of atoms relates to the energy (and stability) of those atoms
+* Ideal bond length = increased stability
+### Hybrid Orbitals
+* Atomic orbitals used in bonding hybridize to create "new" orbitals
+    * This happens because s orbital is not the same shape as p orbital, so a new hybrid orbital must be formed.
+* Elements with expanded octet are also able to hybridize empty d-orbitals
+
+|# of electron<br>clouds|Electronic<br>Geometry|Hybrid<br>Orbital Set|
+|:------------------:|:-----------------:|:----------------:|
+|          2         |       Linear      |       $sp$       |
+|          3         |    Trig. Planar   |      $sp^2$      |
+|          4         |    Tetrahedral    |      $sp^3$      |
+|          5         | Trig. Bipyramidal |      $sp^3d$     |
+|          6         |     Octahedral    |     $sp^3d^2$    |
+
+* ###### only count electrons not bonds
+
+### Multiple Bonds
+* Single bonds can be considered a "line" that passes through the nucleus of each atom
+    * **Sigma bond($\sigma$)**
+* Multiple bonds also involve side to side overlap of p-orbitals
+    * **Pi bond($\sigma$)**
+* ###### NEVER MORE THAN ONE $\sigma$ BOND
+* numbers of bonds
+    * Single bond = $\sigma$
+    * Double bond = $\sigma$, 1 $\pi$
+    * Triple bond = $\sigma$, 2 $\pi$
